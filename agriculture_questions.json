@@ -1,0 +1,623 @@
+{
+  "categories": {
+    "personal": "ব্যক্তিগত তথ্য",
+    "work": "কৃষিকাজ",
+    "japan": "জাপান ও ভাষা",
+    "family": "পরিবার ও দেশ",
+    "self": "ব্যক্তিত্ব"
+  },
+  "questions": [
+    {
+      "questionJp": "しんちょうはなんですか？",
+      "questionRomaji": "Shinchou wa nan desu ka?",
+      "questionBn": "আপনার উচ্চতা কত?",
+      "answerJp": "ひゃくななじゅうろくせんちめーとるです。",
+      "answerRomaji": "Hyaku nanajuu roku senchi meetoru desu.",
+      "answerBn": "১৭৬ সেন্টিমিটার।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "たいじゅうはなんですか？",
+      "questionRomaji": "Taijuu wa nan desu ka?",
+      "questionBn": "আপনার ওজন কত?",
+      "answerJp": "ななじゅうきろみつです。",
+      "answerRomaji": "Nanajuu kiro mitsu desu.",
+      "answerBn": "৭০ কেজি ৩ গ্রাম।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "なんきろはこぶことができますか？",
+      "questionRomaji": "Nan kiro hakobu koto ga dekimasu ka?",
+      "questionBn": "আপনি কত কেজি ওজন বহন করতে পারেন?",
+      "answerJp": "よんじゅうきろぐらむ。",
+      "answerRomaji": "Yon juu kiro guramu.",
+      "answerBn": "৪০ কেজি।",
+      "category": "work"
+    },
+    {
+      "questionJp": "かいしゃでいろいろなひとがいます。けんかしますか？",
+      "questionRomaji": "Kaisha de iroiro na hito ga imasu. Kenka shimasu ka?",
+      "questionBn": "অফিসে বিভিন্ন লোক থাকে। ঝগড়া করবেন কি?",
+      "answerJp": "いいえ。",
+      "answerRomaji": "Iie.",
+      "answerBn": "না।",
+      "category": "self"
+    },
+    {
+      "questionJp": "くつのサイズはなんですか？",
+      "questionRomaji": "Kutsu no saizu wa nan desu ka?",
+      "questionBn": "জুতার সাইজ কত?",
+      "answerJp": "にじゅうななさいずです。",
+      "answerRomaji": "Nijuu nana saizu desu.",
+      "answerBn": "২৭ সাইজ।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "ふくのサイズはなんですか？",
+      "questionRomaji": "Fuku no saizu wa nan desu ka?",
+      "questionBn": "পোশাকের সাইজ কত?",
+      "answerJp": "Lさいずです。",
+      "answerRomaji": "L saizu desu.",
+      "answerBn": "এল (L) সাইজ।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "どうしてにほんではたらきたいですか？",
+      "questionRomaji": "Doushite Nihon de hatarakitai desu ka?",
+      "questionBn": "কেন আপনি জাপানে কাজ করতে চান?",
+      "answerJp": "にほんはきれいであんぜんなくにですから。",
+      "answerRomaji": "Nihon wa kirei de anzen na kuni desu kara.",
+      "answerBn": "কারণ জাপান একটি পরিচ্ছন্ন ও নিরাপদ দেশ।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "のうぎょうのしごとやっていますか？",
+      "questionRomaji": "Nougyou no shigoto yatte imasu ka?",
+      "questionBn": "আপনি কি কৃষিকাজ করছেন?",
+      "answerJp": "はい。",
+      "answerRomaji": "Hai.",
+      "answerBn": "হ্যাঁ।",
+      "category": "work"
+    },
+    {
+      "questionJp": "だんじきをしますか？",
+      "questionRomaji": "Danjiki o shimasu ka?",
+      "questionBn": "আপনি কি উপবাস করেন?",
+      "answerJp": "はい、やすみのひだんじきをします。",
+      "answerRomaji": "Hai, yasumi no hi danjiki o shimasu.",
+      "answerBn": "হ্যাঁ, ছুটির দিনে আমি উপবাস করি।",
+      "category": "self"
+    },
+    {
+      "questionJp": "おいのりをしますか？",
+      "questionRomaji": "Oinori o shimasu ka?",
+      "questionBn": "আপনি কি প্রার্থনা করেন?",
+      "answerJp": "はい、やすみのときおいのりをします。",
+      "answerRomaji": "Hai, yasumi no toki oinori o shimasu.",
+      "answerBn": "হ্যাঁ, আমি ছুটির সময় প্রার্থনা করি।",
+      "category": "self"
+    },
+    {
+      "questionJp": "にほんへいったあとでかぞくはどこにいますか？",
+      "questionRomaji": "Nihon e itta ato de kazoku wa doko ni imasu ka?",
+      "questionBn": "জাপানে যাওয়ার পরে আপনার পরিবার কোথায় থাকবে?",
+      "answerJp": "バングラデシュにいます／すみます。",
+      "answerRomaji": "Banguradeshu ni imasu / sumimasu.",
+      "answerBn": "বাংলাদেশে থাকবে।",
+      "category": "family"
+    },
+    {
+      "questionJp": "けっこんしていますか？",
+      "questionRomaji": "Kekkon shite imasu ka?",
+      "questionBn": "আপনি কি বিবাহিত?",
+      "answerJp": "はい、さんねんまえ。",
+      "answerRomaji": "Hai, san nen mae.",
+      "answerBn": "হ্যাঁ, তিন বছর আগে।",
+      "category": "family"
+    },
+    {
+      "questionJp": "家族で誰と誰がいますか？",
+      "questionRomaji": "Kazoku de dare to dare ga imasu ka?",
+      "questionBn": "আপনার পরিবারে কারা কারা আছে?",
+      "answerJp": "ちちとははとつまとむすこです。",
+      "answerRomaji": "Chichi to haha to tsuma to musuko desu.",
+      "answerBn": "বাবা, মা, স্ত্রী এবং ছেলে।",
+      "category": "family"
+    },
+    {
+      "questionJp": "うんてんめんきょがありますか？",
+      "questionRomaji": "Unten menkyo ga arimasu ka?",
+      "questionBn": "আপনার কি ড্রাইভিং লাইসেন্স আছে?",
+      "answerJp": "はい。",
+      "answerRomaji": "Hai.",
+      "answerBn": "হ্যাঁ।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "にほんへどこでいきたいですか？",
+      "questionRomaji": "Nihon e doko de ikitai desu ka?",
+      "questionBn": "আপনি জাপানে কোথায় থাকতে / যেতে চান?",
+      "answerJp": "どこでもいいです。",
+      "answerRomaji": "Doko demo ii desu.",
+      "answerBn": "যেকোনো জায়গাই ভালো।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "にほんごのしけんいつうけましたか？",
+      "questionRomaji": "Nihongo no shiken itsu ukemashita ka?",
+      "questionBn": "আপনি জাপানি ভাষার পরীক্ষা কখন দিয়েছিলেন?",
+      "answerJp": "ことしのしちがつにうけました。",
+      "answerRomaji": "Kotoshi no shichigatsu ni ukemashita.",
+      "answerBn": "এই বছরের জুলাই মাসে দিয়েছি।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "日本語どのぐらい勉強しましたか？",
+      "questionRomaji": "Nihongo dono gurai benkyou shimashita ka?",
+      "questionBn": "জাপানি ভাষা কতদিন ধরে শিখছেন?",
+      "answerJp": "六ヶ月ぐらい／半年です。",
+      "answerRomaji": "Rokka getsu gurai / Hantoshi desu.",
+      "answerBn": "প্রায় ৬ মাস / আধা বছর।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "生年月日を教えてください。",
+      "questionRomaji": "Seinen-gappi o oshiete kudasai.",
+      "questionBn": "আপনার জন্ম তারিখ বলুন।",
+      "answerJp": "１９９４年の１０月の１０日です。",
+      "answerRomaji": "Sen kyuu hyaku kyuu juu yon nen no juu gatsu no tooka desu.",
+      "answerBn": "১৯৯৪ সালের অক্টোবরের ১০ তারিখ।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "将来の夢は何ですか？",
+      "questionRomaji": "Shourai no yume wa nan desu ka?",
+      "questionBn": "আপনার ভবিষ্যতের স্বপ্ন কী?",
+      "answerJp": "日本へ行ってずっと働きたいです。",
+      "answerRomaji": "Nihon e itte zutto hatarakitai desu.",
+      "answerBn": "আমি জাপানে গিয়ে স্থায়ীভাবে কাজ করতে চাই।",
+      "category": "self"
+    },
+    {
+      "questionJp": "作物を作る経験がありますか？",
+      "questionRomaji": "Sakumotsu o tsukuru keiken ga arimasu ka?",
+      "questionBn": "আপনার কি ফসল উৎপাদনের অভিজ্ঞতা আছে?",
+      "answerJp": "ジャガイモと人参とトマトといろいろな野菜を作る経験があります。",
+      "answerRomaji": "Jagaimo to ninjin to tomato to iroiro na yasai o tsukuru keiken ga arimasu.",
+      "answerBn": "আলু, গাজর, টমেটো এবং বিভিন্ন ধরনের সবজি উৎপাদনের অভিজ্ঞতা আছে।",
+      "category": "work"
+    },
+    {
+      "questionJp": "年齢を教えていただけませんか？",
+      "questionRomaji": "Nenrei o oshiete itadakemasen ka?",
+      "questionBn": "আপনার বয়স কত?",
+      "answerJp": "３０歳です。",
+      "answerRomaji": "Sanjuu-sai desu.",
+      "answerBn": "৩০ বছর।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "この会社をどうやって知りましたか？",
+      "questionRomaji": "Kono kaisha o douyatte shirimashita ka?",
+      "questionBn": "আপনি এই কোম্পানি সম্পর্কে কীভাবে জানলেন?",
+      "answerJp": "インターネットで知りました。",
+      "answerRomaji": "Intaanetto de shirimashita.",
+      "answerBn": "ইন্টারনেট থেকে জেনেছি।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "どこで日本語を勉強しましたか？",
+      "questionRomaji": "Doko de Nihongo o benkyou shimashita ka?",
+      "questionBn": "আপনি কোথায় জাপানি ভাষা শিখেছেন?",
+      "answerJp": "アンヌールランゲージアカデミーで。",
+      "answerRomaji": "An Nuuru Rangeeji Akademii de.",
+      "answerBn": "আন নূর ল্যাঙ্গুয়েজ অ্যাকাডেমিতে।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "あなたの人生で一番楽しかったことは何ですか？",
+      "questionRomaji": "Anata no jinsei de ichiban tanoshikatta koto wa nan desu ka?",
+      "questionBn": "আপনার জীবনে সবচেয়ে আনন্দদায়ক মুহূর্ত কী?",
+      "answerJp": "JLPTに合格時一番楽しかった。",
+      "answerRomaji": "JLPT ni goukaku toki ichiban tanoshikatta.",
+      "answerBn": "জেএলপিটি পরীক্ষায় উত্তীর্ণ হওয়ার সময় সবচেয়ে আনন্দ পেয়েছিলাম।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "日本どんな国と思っていますか？",
+      "questionRomaji": "Nihon donna kuni to omotte imasu ka?",
+      "questionBn": "আপনার মতে জাপান কেমন দেশ?",
+      "answerJp": "安全な国です。",
+      "answerRomaji": "Anzen na kuni desu.",
+      "answerBn": "একটি নিরাপদ দেশ।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "日本の製品について知りますか？",
+      "questionRomaji": "Nihon no seihin ni tsuite shirimasu ka?",
+      "questionBn": "জাপানের পণ্য সম্পর্কে আপনি কি জানেন?",
+      "answerJp": "はい、車、カメラ。",
+      "answerRomaji": "Hai, kuruma, kamera.",
+      "answerBn": "হ্যাঁ, গাড়ি, ক্যামেরা।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "農業の仕事の機械を知りますか？",
+      "questionRomaji": "Nougyou no shigoto no kikai o shirimasu ka?",
+      "questionBn": "কৃষি কাজের যন্ত্রপাতি সম্পর্কে আপনি কি জানেন?",
+      "answerJp": "はい、コンバインハーベスター、ライスプランター、トラック。",
+      "answerRomaji": "Hai, konbain haabesutaa, raisu purantaa, torakku.",
+      "answerBn": "হ্যাঁ, কম্বাইন হারভেস্টার, ধান রোপণ যন্ত্র, ট্রাক।",
+      "category": "work"
+    },
+    {
+      "questionJp": "日本の農業とバングラデシュの農業の中で何が違いますか？",
+      "questionRomaji": "Nihon no nougyou to Banguradeshu no nougyou no naka de nani ga chigaimasu ka?",
+      "questionBn": "জাপানের কৃষি এবং বাংলাদেশের কৃষির মধ্যে কী পার্থক্য?",
+      "answerJp": "日本で機械で農業仕事をします。でもバングラデシュでは人で農業をします。",
+      "answerRomaji": "Nihon de kikai de nougyou shigoto o shimasu. Demo Banguradeshu de wa hito de nougyou o shimasu.",
+      "answerBn": "জাপানে যান্ত্রিক পদ্ধতিতে কৃষি কাজ হয়। কিন্তু বাংলাদেশে মানুষ দিয়ে কৃষি কাজ করা হয়।",
+      "category": "work"
+    },
+    {
+      "questionJp": "ご出身は何ですか？",
+      "questionRomaji": "Go shusshin wa nan desu ka?",
+      "questionBn": "আপনার জন্মস্থান কোথায়?",
+      "answerJp": "バングラデシュのムンシガンジです。",
+      "answerRomaji": "Banguradeshu no Munshiganji desu.",
+      "answerBn": "আমি বাংলাদেশের মুন্সীগঞ্জ থেকে।",
+      "category": "family"
+    },
+    {
+      "questionJp": "日本に友達や親戚がいますか？",
+      "questionRomaji": "Nihon ni tomodachi ya shinseki ga imasu ka?",
+      "questionBn": "আপনার কি জাপানে কোনো বন্ধু বা আত্মীয় আছে?",
+      "answerJp": "いえ、いません。",
+      "answerRomaji": "Iie, imasen.",
+      "answerBn": "না, নেই।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "どうして白が好きですか？",
+      "questionRomaji": "Doushite shiro ga suki desu ka?",
+      "questionBn": "আপনার সাদা রং কেন পছন্দ?",
+      "answerJp": "白は平和の象徴です。",
+      "answerRomaji": "Shiro wa heiwa no shouchou desu.",
+      "answerBn": "সাদা রং শান্তির প্রতীক।",
+      "category": "self"
+    },
+    {
+      "questionJp": "バングラデシュはどんな国ですか？",
+      "questionRomaji": "Banguradeshu wa donna kuni desu ka?",
+      "questionBn": "বাংলাদেশ কেমন দেশ?",
+      "answerJp": "バングラデシュはかわいい国です。",
+      "answerRomaji": "Banguradeshu wa kawaii kuni desu.",
+      "answerBn": "বাংলাদেশ একটি নদীমাতৃক দেশ।",
+      "category": "family"
+    },
+    {
+      "questionJp": "あなたの血液型は何ですか？",
+      "questionRomaji": "Anata no ketsuekigata wa nan desu ka?",
+      "questionBn": "আপনার রক্তের গ্রুপ কী?",
+      "answerJp": "B型です。",
+      "answerRomaji": "B-gata desu.",
+      "answerBn": "বি গ্রুপ।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "バングラデシュの国旗の色は何ですか？",
+      "questionRomaji": "Banguradeshu no kokki no iro wa nan desu ka?",
+      "questionBn": "বাংলাদেশের পতাকার রং কী?",
+      "answerJp": "緑と赤いです。",
+      "answerRomaji": "Midori to akai desu.",
+      "answerBn": "সবুজ এবং লাল।",
+      "category": "family"
+    },
+    {
+      "questionJp": "食べられない物は何ですか？",
+      "questionRomaji": "Tabe rarenai mono wa nan desu ka?",
+      "questionBn": "আপনি কী খাবার খেতে পারেন না?",
+      "answerJp": "豚肉です。",
+      "answerRomaji": "Buta niku desu.",
+      "answerBn": "শূকরের মাংস।",
+      "category": "self"
+    },
+    {
+      "questionJp": "飲めない物は何ですか？",
+      "questionRomaji": "Nomenai mono wa nan desu ka?",
+      "questionBn": "আপনি কী পান করতে পারেন না?",
+      "answerJp": "お酒です。",
+      "answerRomaji": "O sake desu.",
+      "answerBn": "মদ।",
+      "category": "self"
+    },
+    {
+      "questionJp": "あなたの短所を教えてください。",
+      "questionRomaji": "Anata no tansho o oshiete kudasai.",
+      "questionBn": "দয়া করে আপনার দুর্বলতাগুলো বলুন।",
+      "answerJp": "知らない人と話すときちょっと緊張することです。",
+      "answerRomaji": "Shiranai hito to hanasu toki chotto kinchou suru koto desu.",
+      "answerBn": "অপরিচিত লোকের সাথে কথা বলার সময় একটু নার্ভাস হয়ে যাই।",
+      "category": "self"
+    },
+    {
+      "questionJp": "あなたの長所を教えてください。",
+      "questionRomaji": "Anata no chousho o oshiete kudasai.",
+      "questionBn": "দয়া করে আপনার শক্তির জায়গাগুলো বলুন।",
+      "answerJp": "正直なところです。",
+      "answerRomaji": "Shoujiki na tokoro desu.",
+      "answerBn": "সৎ স্বভাব।",
+      "category": "self"
+    },
+    {
+      "questionJp": "聞こえますか？",
+      "questionRomaji": "Kikoemasu ka?",
+      "questionBn": "আপনি শুনতে পাচ্ছেন?",
+      "answerJp": "はい。",
+      "answerRomaji": "Hai.",
+      "answerBn": "হ্যাঁ।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "何と呼んだらいいですか？",
+      "questionRomaji": "Nan to yondara ii desu ka?",
+      "questionBn": "আপনাকে কী বলে ডাকব?",
+      "answerJp": "ライフ。",
+      "answerRomaji": "Raiifu.",
+      "answerBn": "রাইফ।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "作物を切る時大変ですか？",
+      "questionRomaji": "Sakumotsu o kiru toki taihen desu ka?",
+      "questionBn": "ফসল কাটার সময় কি সমস্যা হয়?",
+      "answerJp": "作物を作る時、大変です。",
+      "answerRomaji": "Sakumotsu o tsukuru toki, taihen desu.",
+      "answerBn": "ফসল তৈরি করার সময় কষ্ট হয়।",
+      "category": "work"
+    },
+    {
+      "questionJp": "どうして農業の仕事をしたいんですか？",
+      "questionRomaji": "Doushite nougyou no shigoto o shitain desu ka?",
+      "questionBn": "কেন আপনি কৃষি-সম্পর্কিত কাজ করতে চান?",
+      "answerJp": "農業の仕事好きですから、したいです。",
+      "answerRomaji": "Nougyou no shigoto suki desu kara, shitai desu.",
+      "answerBn": "আমি কৃষি কাজ পছন্দ করি, তাই করতে চাই।",
+      "category": "work"
+    },
+    {
+      "questionJp": "何キロメートル走ることができますか？",
+      "questionRomaji": "Nan kiro meetoru hashiru koto ga dekimasu ka?",
+      "questionBn": "আপনি কত কিলোমিটার দৌড়াতে পারেন?",
+      "answerJp": "5キロメートルぐらいです。",
+      "answerRomaji": "Go kiro meetoru gurai desu.",
+      "answerBn": "প্রায় ৫ কিলোমিটার।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "どこで農業の仕事をしますか？",
+      "questionRomaji": "Doko de nougyou no shigoto o shimasu ka?",
+      "questionBn": "আপনি কোথায় কৃষি কাজ করেন?",
+      "answerJp": "家族の農業の仕事で手伝っています。",
+      "answerRomaji": "Kazoku no nougyou no shigoto de tetsudatte imasu.",
+      "answerBn": "আমি পরিবারের কৃষি কাজের সহযোগিতা করি।",
+      "category": "work"
+    },
+    {
+      "questionJp": "日本に来て何が見たいことがありますか？",
+      "questionRomaji": "Nihon ni kite nani ga mitai koto ga arimasu ka?",
+      "questionBn": "জাপানে এসে আপনি কী দেখতে চান?",
+      "answerJp": "はい、富士山みたいです。",
+      "answerRomaji": "Hai, Fujisan mitai desu.",
+      "answerBn": "হ্যাঁ, ফুজি পর্বত দেখতে চাই।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "日本の首相の名前は何ですか？",
+      "questionRomaji": "Nihon no shushou no namae wa nan desu ka?",
+      "questionBn": "জাপানের প্রধানমন্ত্রীর নাম কী?",
+      "answerJp": "文雄岸田です。",
+      "answerRomaji": "Fumio Kishida desu.",
+      "answerBn": "ফুমিও কিশিদা।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "バングラデシュはどこですか？",
+      "questionRomaji": "Banguradeshu wa doko desu ka?",
+      "questionBn": "বাংলাদেশ কোথায়?",
+      "answerJp": "ミャンマーの隣です。",
+      "answerRomaji": "Myanmaa no tonari desu.",
+      "answerBn": "মিয়ানমারের পাশেই।",
+      "category": "family"
+    },
+    {
+      "questionJp": "どうして農業の仕事を選びましたか？",
+      "questionRomaji": "Doushite nougyou no shigoto o erabimashita ka?",
+      "questionBn": "কেন কৃষিকাজের চাকরি বেছে নিয়েছিলেন?",
+      "answerJp": "農業の仕事で体を動かすから、農業の仕事をしたいです。",
+      "answerRomaji": "Nougyou no shigoto de karada o ugokasu kara, nougyou no shigoto o shitai desu.",
+      "answerBn": "কৃষিকাজে শরীরচর্চা করা যায়, তাই আমি কৃষির কাজ করতে চাই।",
+      "category": "work"
+    },
+    {
+      "questionJp": "日本の時間とバングラデシュの時間は差がありますか？",
+      "questionRomaji": "Nihon no jikan to Banguradeshu no jikan wa sa ga arimasu ka?",
+      "questionBn": "জাপানের সময় এবং বাংলাদেশের সময়ের মধ্যে পার্থক্য আছে?",
+      "answerJp": "３時間です。",
+      "answerRomaji": "San-jikan desu.",
+      "answerBn": "তিন ঘণ্টার পার্থক্য।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "今まで海外で働きましたか？",
+      "questionRomaji": "Ima made kaigai de hatarakimashita ka?",
+      "questionBn": "আপনি কি আগে বিদেশে কাজ করেছেন?",
+      "answerJp": "いいえ。",
+      "answerRomaji": "Iie.",
+      "answerBn": "না।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "料理が好きですか？",
+      "questionRomaji": "Ryouri ga suki desu ka?",
+      "questionBn": "আপনি কি রান্না করতে ভালোবাসেন?",
+      "answerJp": "はい。",
+      "answerRomaji": "Hai.",
+      "answerBn": "হ্যাঁ।",
+      "category": "self"
+    },
+    {
+      "questionJp": "料理することがありますか？",
+      "questionRomaji": "Ryouri suru koto ga arimasu ka?",
+      "questionBn": "আপনি কি কখনো রান্না করেন?",
+      "answerJp": "はい。",
+      "answerRomaji": "Hai.",
+      "answerBn": "হ্যাঁ।",
+      "category": "self"
+    },
+    {
+      "questionJp": "もし蛇や虫にかまれたらどうしますか？",
+      "questionRomaji": "Moshi hebi ya mushi ni kamaretara dou shimasu ka?",
+      "questionBn": "যদি সাপ বা পোকা কামড়ায়, আপনি কী করবেন?",
+      "answerJp": "担当に報告します。",
+      "answerRomaji": "Tantou ni houkoku shimasu.",
+      "answerBn": "যাদের দায়িত্ব রয়েছে, তাদের রিপোর্ট করব।",
+      "category": "work"
+    },
+    {
+      "questionJp": "バングラデシュの農作業にはどのような機械が使われますか？",
+      "questionRomaji": "Banguradeshu no nousagyou niwa donoyouna kikai ga tsukawaremasu ka?",
+      "questionBn": "বাংলাদেশে কৃষিকাজে কোন ধরনের যন্ত্রপাতি ব্যবহার হয়?",
+      "answerJp": "例えば、スキ、シャベル、鎌などがあります。",
+      "answerRomaji": "Tatoeba, suki, shaberu, kama nado ga arimasu.",
+      "answerBn": "যেমন লাঙল, কোদাল, কাস্তে ইত্যাদি।",
+      "category": "work"
+    },
+    {
+      "questionJp": "日本に来ると健康保険、保険証払いますか？",
+      "questionRomaji": "Nihon ni kuru to kenkou hoken, hokenshou haraimasu ka?",
+      "questionBn": "জাপানে আসার পর স্বাস্থ্যবীমা এবং বীমার কাগজপত্র কি পরিশোধ করবেন?",
+      "answerJp": "はい、先生。",
+      "answerRomaji": "Hai, sensei.",
+      "answerBn": "হ্যাঁ, স্যার।",
+      "category": "japan"
+    },
+    {
+      "questionJp": "家族の意見がありますか？",
+      "questionRomaji": "Kazoku no iken ga arimasu ka?",
+      "questionBn": "আপনার পরিবারের কোনো মতামত আছে কি?",
+      "answerJp": "家族の承認をもらいました。",
+      "answerRomaji": "Kazoku no shounin o moraimashita.",
+      "answerBn": "পরিবারের সম্মতি পেয়েছি।",
+      "category": "family"
+    },
+    {
+      "questionJp": "あなたの仕事の内容は何ですか？",
+      "questionRomaji": "Anata no shigoto no naiyou wa nan desu ka?",
+      "questionBn": "আপনার কাজের বিষয়বস্তু কী?",
+      "answerJp": "農業の仕事です。",
+      "answerRomaji": "Nougyou no shigoto desu.",
+      "answerBn": "এটি কৃষি সম্পর্কিত কাজ।",
+      "category": "work"
+    },
+    {
+      "questionJp": "あなたはどんな車の運転経験がありますか？",
+      "questionRomaji": "Anata wa donna kuruma no unten keiken ga arimasu ka?",
+      "questionBn": "আপনার কী ধরনের গাড়ি চালানোর অভিজ্ঞতা আছে?",
+      "answerJp": "小さな車、オート、マニュアル、両方の経験があります。",
+      "answerRomaji": "Chiisana kuruma, ooto, manyuaru, ryouhou no keiken ga arimasu.",
+      "answerBn": "ছোট গাড়ি, স্বয়ংক্রিয় ও ম্যানুয়াল দুটোরই অভিজ্ঞতা রয়েছে।",
+      "category": "personal"
+    },
+    {
+      "questionJp": "仕事をしているとき、雷が落ちたら何をしますか？",
+      "questionRomaji": "Shigoto o shiteiru toki, kaminari ga ochitara nani o shimasu ka?",
+      "questionBn": "কাজ করার সময় বজ্রপাত পড়লে আপনি কী করবেন?",
+      "answerJp": "まず担当に報告します。",
+      "answerRomaji": "Mazu tantou ni houkoku shimasu.",
+      "answerBn": "প্রথমে দায়িত্বপ্রাপ্ত ব্যক্তিকে জানাব।",
+      "category": "work"
+    },
+    {
+      "questionJp": "日本で農業の道具の名前を知っていますか？",
+      "questionRomaji": "Nihon de nougyou no dougu no namae o shitte imasu ka?",
+      "questionBn": "জাপানে কৃষিকাজের সরঞ্জামের নাম জানেন?",
+      "answerJp": "はい、トラクター、耕運機、コンバイン、田植機、脱穀機、スプレーヤー、肥料散布機、草刈り機、ハーロー、スコップなどです。",
+      "answerRomaji": "Hai, torakutaa, kouunki, konbain, taueki, dakkokki, supureeyaa, hiryou sanpuki, kusa kariki, haaroo, sukoppu nado desu.",
+      "answerBn": "হ্যাঁ, ট্রাক্টর, হালচাষ যন্ত্র, ধান রোপণের যন্ত্র, ধান মাড়াই যন্ত্র, স্প্রে মেশিন, সার ছিটানোর মেশিন, ঘাস কাটার যন্ত্র, হারো, কোদাল ইত্যাদি।",
+      "category": "work"
+    },
+    {
+      "questionJp": "肥料の名前は何ですか？",
+      "questionRomaji": "Hiryou no namae wa nan desu ka?",
+      "questionBn": "সারের নাম কী?",
+      "answerJp": "ユリア、リン酸、カリウム、NPK肥料などです。",
+      "answerRomaji": "Yuria, rin-san, kariumu, enu pii kei hiryou nado desu.",
+      "answerBn": "ইউরিয়া, ফসফেট, পটাসিয়াম, NPK সার ইত্যাদি。",
+      "category": "work"
+    },
+    {
+      "questionJp": "農薬の名前を知りますか？",
+      "questionRomaji": "Nouyaku no namae o shirimasu ka?",
+      "questionBn": "আপনি কী কী কীটনাশকের নাম জানেন?",
+      "answerJp": "フィプロニル、ピレスロイド、アセタミプリド。",
+      "answerRomaji": "Fiproniru, piresuroido, asetamipuriddo.",
+      "answerBn": "ফিপ্রোনিল, পাইরেথ্রয়েড, অ্যাসেটামিপ্রিড।",
+      "category": "work"
+    },
+    {
+      "questionJp": "あなたはどう人を思っていますか？",
+      "questionRomaji": "Anata wa dou hito o omotte imasu ka?",
+      "questionBn": "আপনি নিজের সম্পর্কে কী মনে করেন?",
+      "answerJp": "まじめな人です。",
+      "answerRomaji": "Majime na hito desu.",
+      "answerBn": "একজন সিরিয়াস বা আন্তরিক মানুষ।",
+      "category": "self"
+    },
+    {
+      "questionJp": "あなたの得意なことは何ですか？",
+      "questionRomaji": "Anata no tokui na koto wa nan desu ka?",
+      "questionBn": "আপনার বিশেষ দক্ষতা কী?",
+      "answerJp": "集中力があることです。",
+      "answerRomaji": "Shuuchuuryoku ga aru koto desu.",
+      "answerBn": "মনোযোগ ধরে রাখার ক্ষমতা।",
+      "category": "self"
+    },
+    {
+      "questionJp": "どうやってビリヤニを作れますか？",
+      "questionRomaji": "Dou yatte biriyani o tsukuraremasu ka?",
+      "questionBn": "বিরিয়ানি কীভাবে তৈরি করবেন?",
+      "answerJp": "米と肉とスパイスを混ぜて作ります。",
+      "answerRomaji": "Kome to niku to supaisu o mazete tsukurimasu.",
+      "answerBn": "চাল, মাংস এবং মসলা মিশিয়ে তৈরি করা হয়।",
+      "category": "self"
+    },
+    {
+      "questionJp": "うちの会社で何年働きたいですか？",
+      "questionRomaji": "Uchi no kaisha de nan-nen hatarakitai desu ka?",
+      "questionBn": "আপনি আমাদের কোম্পানিতে কত বছর কাজ করতে চান?",
+      "answerJp": "退職まで働きたいです。",
+      "answerRomaji": "Taishoku made hatarakitai desu.",
+      "answerBn": "অবসরের আগে পর্যন্ত কাজ করতে চাই।",
+      "category": "work"
+    },
+    {
+      "questionJp": "日本で農業の仕事の理由は何ですか？",
+      "questionRomaji": "Nihon de nougyou no shigoto no riyuu wa nan desu ka?",
+      "questionBn": "আপনি জাপানে কৃষি কাজ করতে চান কেন?",
+      "answerJp": "農業の仕事が好きです。日本の農業の仕事はいろいろな技術をしますから、日本で農業の仕事をしたいです。",
+      "answerRomaji": "Nougyou no shigoto ga suki desu. Nihon no nougyou no shigoto wa iroiro na gijutsu o shimasu kara, Nihon de nougyou no shigoto o shitai desu.",
+      "answerBn": "আমি কৃষি কাজ পছন্দ করি। জাপানের কৃষি কাজে বিভিন্ন প্রযুক্তি ব্যবহার করা হয় বলে আমি সেখানে কাজ করতে চাই。",
+      "category": "work"
+    },
+    {
+      "questionJp": "あなたの学歴を教えてください。",
+      "questionRomaji": "Anata no gakureki o oshiete kudasai.",
+      "questionBn": "আপনার শিক্ষাগত যোগ্যতা কী? দয়া করে বলুন।",
+      "answerJp": "クラス１２まで勉強しました。",
+      "answerRomaji": "Kurasu juuni made benkyou shimashita.",
+      "answerBn": "আমি ক্লাস ১২ পর্যন্ত পড়াশোনা করেছি।",
+      "category": "personal"
+    }
+  ]
+}
