@@ -1,0 +1,5271 @@
+{
+  "lesson1": [
+    null,
+    {
+      "bangla": "আমি",
+      "japanese": "わたし",
+      "romaji": "ওয়াতাসি"
+    },
+    {
+      "bangla": "আপনি / তুমি",
+      "japanese": "あなた",
+      "romaji": "আনাতা"
+    },
+    {
+      "bangla": "ওই ব্যক্তি (সে)",
+      "japanese": "あの ひと",
+      "romaji": "আনো হিতো"
+    },
+    {
+      "bangla": "ওই ব্যক্তি (বেশি বিনয়ী রূপ)",
+      "japanese": "あの かた",
+      "romaji": "আনো কাতা"
+    },
+    {
+      "bangla": "নমস্কার / জনাব / জনবা (নামের শেষে যুক্ত হয়)",
+      "japanese": "～さん",
+      "romaji": "~ সান"
+    },
+    {
+      "bangla": "ছোটদের নামের শেষে আদুরে ডাক",
+      "japanese": "～ちゃん",
+      "romaji": "~ চান"
+    },
+    {
+      "bangla": "কোনো দেশের নাগরিক (যেমন: বাঙালি)",
+      "japanese": "～じん",
+      "romaji": "~ জিন"
+    },
+    {
+      "bangla": "শিক্ষক (অন্যের পেশা বোঝাতে)",
+      "japanese": "せんせい",
+      "romaji": "সেন্সেই"
+    },
+    {
+      "bangla": "শিক্ষক (নিজের পেশা বলতে)",
+      "japanese": "きょうし",
+      "romaji": "ক্যোউশি"
+    },
+    {
+      "bangla": "ছাত্র / ছাত্রী",
+      "japanese": "がくせい",
+      "romaji": "গাকুসেই"
+    },
+    {
+      "bangla": "কোম্পানির চাকরিজীবী",
+      "japanese": "かいしゃいん",
+      "romaji": "কাইশাইন"
+    },
+    {
+      "bangla": "কোনো একটি নির্দিষ্ট কোম্পানির কর্মী",
+      "japanese": "しゃいん",
+      "romaji": "শাইন"
+    },
+    {
+      "bangla": "ব্যাংক কর্মকর্তা",
+      "japanese": "ぎんこういん",
+      "romaji": "গিংকৌইন"
+    },
+    {
+      "bangla": "ডাক্তার (চিকিৎসক)",
+      "japanese": "いしゃ",
+      "romaji": "ইশা"
+    },
+    {
+      "bangla": "গবেষক",
+      "japanese": "けんきゅうしゃ",
+      "romaji": "কেন্ক্যূশা"
+    },
+    {
+      "bangla": "বিশ্ববিদ্যালয়",
+      "japanese": "だいがく",
+      "romaji": "দাইগাকু"
+    },
+    {
+      "bangla": "হাসপাতাল",
+      "japanese": "びょういん",
+      "romaji": "ব্যৌইন"
+    },
+    {
+      "bangla": "কে?",
+      "japanese": "だれ",
+      "romaji": "দারে"
+    },
+    {
+      "bangla": "কে? (বেশি বিনয়ী রূপ)",
+      "japanese": "どなた",
+      "romaji": "দোনাতা"
+    },
+    {
+      "bangla": "... বছর বয়স",
+      "japanese": "～さい",
+      "romaji": "~ সাই"
+    },
+    {
+      "bangla": "কত বছর বয়স?",
+      "japanese": "なんさい",
+      "romaji": "নান্সাই"
+    },
+    {
+      "bangla": "কত বছর বয়স? (বিনয়ী রূপ)",
+      "japanese": "おいくつ",
+      "romaji": "ওইকুৎসু"
+    },
+    {
+      "bangla": "হ্যাঁ",
+      "japanese": "はい",
+      "romaji": "হাই"
+    },
+    {
+      "bangla": "না",
+      "japanese": "いいえ",
+      "romaji": "ইইএ"
+    },
+    {
+      "bangla": "আপনার সাথে পরিচিত হয়ে খুশি হলাম।",
+      "japanese": "はじめまして。",
+      "romaji": "হাজিমেমাশিতে"
+    },
+    {
+      "bangla": "আমি ~ থেকে এসেছি।",
+      "japanese": "～から きました。",
+      "romaji": "~ কারা কিমাশিতা"
+    },
+    {
+      "bangla": "আপনার সাথে ভালো সম্পর্ক বজায় রাখার আশা রাখছি।",
+      "japanese": "[どうぞ] よろしく [おねがいします]。",
+      "romaji": "[দৌজী] ইয়োরোশিকু [ওনেগাইশিমাস]"
+    },
+    {
+      "bangla": "ক্ষমা করবেন, কিন্তু...",
+      "japanese": "しつれいですが",
+      "romaji": "শিৎসুরে দেসু গা"
+    },
+    {
+      "bangla": "আপনার নাম কী?",
+      "japanese": "おなまえは？",
+      "romaji": "ওনামায়ে ওয়া?"
+    },
+    {
+      "bangla": "ইনি হলেন জনাব/জনাবা ~।",
+      "japanese": "こちらは ～さんです。",
+      "romaji": "কোচিরা ওয়া ~ সান দেস"
+    },
+    {
+      "bangla": "আমেরিকা",
+      "japanese": "アメリカ",
+      "romaji": "আমেরিকা"
+    },
+    {
+      "bangla": "যুক্তরাজ্য (UK)",
+      "japanese": "イギリス",
+      "romaji": "ইগিরিসু"
+    },
+    {
+      "bangla": "ভারত",
+      "japanese": "インド",
+      "romaji": "ইন্দো"
+    },
+    {
+      "bangla": "ইন্দোনেশিয়া",
+      "japanese": "インドネシア",
+      "romaji": "ইন্দোনেশিয়া"
+    },
+    {
+      "bangla": "দক্ষিণ কোরিয়া",
+      "japanese": "かんこく",
+      "romaji": "কান্কোকু"
+    },
+    {
+      "bangla": "থাইল্যান্ড",
+      "japanese": "タイ",
+      "romaji": "তাই"
+    },
+    {
+      "bangla": "চীন",
+      "japanese": "ちゅうごく",
+      "romaji": "চ্যূগোকু"
+    },
+    {
+      "bangla": "জার্মানি",
+      "japanese": "ドイツ",
+      "romaji": "দোইৎসু"
+    },
+    {
+      "bangla": "জাপান",
+      "japanese": "にほん",
+      "romaji": "নিহন"
+    },
+    {
+      "bangla": "ব্রাজিল",
+      "japanese": "ブラジル",
+      "romaji": "বুরাজিরু"
+    }
+  ],
+  "lesson10": [
+    null,
+    {
+      "bangla": "আছে / রয়েছে (জড় বস্তুর জন্য)",
+      "japanese": "あります",
+      "romaji": "আরিমাস"
+    },
+    {
+      "bangla": "আছে / রয়েছে (জীবিত জিনিসের জন্য)",
+      "japanese": "います",
+      "romaji": "ইমাস"
+    },
+    {
+      "bangla": "বিভিন্ন / নানা রকম",
+      "japanese": "いろいろ［な］",
+      "romaji": "ইরোইরো [না]"
+    },
+    {
+      "bangla": "পুরুষ / মানুষ",
+      "japanese": "おとこの ひと",
+      "romaji": "ওতোকোনো হিতো"
+    },
+    {
+      "bangla": "মহিলা / নারী",
+      "japanese": "おんなの ひと",
+      "romaji": "ওন্নানো হিতো"
+    },
+    {
+      "bangla": "ছেলে",
+      "japanese": "おとこの こ",
+      "romaji": "ওতোকোনো কো"
+    },
+    {
+      "bangla": "মেয়ে",
+      "japanese": "おんなの こ",
+      "romaji": "ওন্নানো কো"
+    },
+    {
+      "bangla": "কুকুর",
+      "japanese": "いぬ",
+      "romaji": "ইনু"
+    },
+    {
+      "bangla": "বিড়াল",
+      "japanese": "ねこ",
+      "romaji": "নেকো"
+    },
+    {
+      "bangla": "পান্ডা",
+      "japanese": "パンダ",
+      "romaji": "পান্দা"
+    },
+    {
+      "bangla": "হাতি",
+      "japanese": "ぞう",
+      "romaji": "জোউ"
+    },
+    {
+      "bangla": "গাছ / কাঠ",
+      "japanese": "き",
+      "romaji": "কি"
+    },
+    {
+      "bangla": "জিনিস",
+      "japanese": "もの",
+      "romaji": "মোনো"
+    },
+    {
+      "bangla": "ব্যাটারি",
+      "japanese": "でんち",
+      "romaji": "দেন্চি"
+    },
+    {
+      "bangla": "বাক্স",
+      "japanese": "はこ",
+      "romaji": "হাকো"
+    },
+    {
+      "bangla": "সুইচ",
+      "japanese": "スイッチ",
+      "romaji": "সুইচ্‌চি"
+    },
+    {
+      "bangla": "ফ্রিজ",
+      "japanese": "れいぞうこ",
+      "romaji": "রেইজৌকো"
+    },
+    {
+      "bangla": "টেবিল",
+      "japanese": "テーブル",
+      "romaji": "তেবুরু"
+    },
+    {
+      "bangla": "বিছানা",
+      "japanese": "ベッド",
+      "romaji": "বেদ্‌দো"
+    },
+    {
+      "bangla": "তাক / শেলফ",
+      "japanese": "たな",
+      "romaji": "তানা"
+    },
+    {
+      "bangla": "দরজা",
+      "japanese": "ドア",
+      "romaji": "দোয়া"
+    },
+    {
+      "bangla": "জানালা",
+      "japanese": "まど",
+      "romaji": "মাদো"
+    },
+    {
+      "bangla": "পোস্টবক্স",
+      "japanese": "ポスト",
+      "romaji": "পোসুতোর"
+    },
+    {
+      "bangla": "বিল্ডিং",
+      "japanese": "ビル",
+      "romaji": "বিরু"
+    },
+    {
+      "bangla": "এটিএম",
+      "japanese": "ATM",
+      "romaji": "এতিএমু"
+    },
+    {
+      "bangla": "কনভেনিয়েন্স স্টোর",
+      "japanese": "コンビニ",
+      "romaji": "কোনবিনি"
+    },
+    {
+      "bangla": "পার্ক",
+      "japanese": "こうえん",
+      "romaji": "কৌএন"
+    },
+    {
+      "bangla": "কফি শপ / ক্যাফে",
+      "japanese": "きっさてん",
+      "romaji": "কিস্‌সাতেন"
+    },
+    {
+      "bangla": "দোকান / স্টোর",
+      "japanese": "～や",
+      "romaji": "~ ইয়া"
+    },
+    {
+      "bangla": "ওঠার স্থান / স্ট্যান্ড",
+      "japanese": "のりば",
+      "romaji": "নোরিবা"
+    },
+    {
+      "bangla": "প্রিফেকচার / জেলা",
+      "japanese": "けん",
+      "romaji": "কেন"
+    },
+    {
+      "bangla": "উপরে",
+      "japanese": "うえ",
+      "romaji": "উএ"
+    },
+    {
+      "bangla": "নিচে",
+      "japanese": "した",
+      "romaji": "শিতা"
+    },
+    {
+      "bangla": "সামনে",
+      "japanese": "まえ",
+      "romaji": "মাএ"
+    },
+    {
+      "bangla": "পিছনে",
+      "japanese": "うしろ",
+      "romaji": "উশিরো"
+    },
+    {
+      "bangla": "ডান",
+      "japanese": "みぎ",
+      "romaji": "মিগি"
+    },
+    {
+      "bangla": "বাম",
+      "japanese": "ひだり",
+      "romaji": "হিদারি"
+    },
+    {
+      "bangla": "ভিতরে",
+      "japanese": "なか",
+      "romaji": "নাকা"
+    },
+    {
+      "bangla": "বাইরে",
+      "japanese": "そと",
+      "romaji": "সোতো"
+    },
+    {
+      "bangla": "পাশে / পাশের",
+      "japanese": "となり",
+      "romaji": "তোনারি"
+    },
+    {
+      "bangla": "কাছে / নিকটে",
+      "japanese": "ちかく",
+      "romaji": "চিকাকু"
+    },
+    {
+      "bangla": "মাঝখানে",
+      "japanese": "あいだ",
+      "romaji": "আইদা"
+    },
+    {
+      "bangla": "ইতাদি",
+      "japanese": "～や ～［など］",
+      "romaji": "~ ইয়া ~ [নাদো]"
+    },
+    {
+      "bangla": "ধন্যবাদ / মাফ করবেন",
+      "japanese": "［どうも］ すみません。",
+      "romaji": "[দৌমো] সুমিমাসেন"
+    },
+    {
+      "bangla": "নাম প্লা",
+      "japanese": "ナンプラー",
+      "romaji": "নাম্পুরা"
+    },
+    {
+      "bangla": "কর্নার / বিভাগ",
+      "japanese": "コーナー",
+      "romaji": "কোনা"
+    },
+    {
+      "bangla": "একদম নিচে",
+      "japanese": "いちばん した",
+      "romaji": "ইচিবান শিতা"
+    },
+    {
+      "bangla": "টোকিও ডিজনিল্যান্ড",
+      "japanese": "とうきょう ディズニーランド",
+      "romaji": "তৌকিও দিজুনি রান্দো"
+    },
+    {
+      "bangla": "এশিয়া স্টোর",
+      "japanese": "アジアストア",
+      "romaji": "আজিআ সুতোআ"
+    }
+  ],
+  "lesson11": [
+    null,
+    {
+      "bangla": "শিশু / আছে [শিশু আছে]",
+      "japanese": "います［こどもが〜］",
+      "romaji": "ইমাস [কোদোমোগা~]"
+    },
+    {
+      "bangla": "জাপানে / আছে [জাপানে থাকা]",
+      "japanese": "います［にほんに〜］",
+      "romaji": "ইমাস [নিহোন্নি~]"
+    },
+    {
+      "bangla": "লাগা / খরচ হওয়া",
+      "japanese": "かかります",
+      "romaji": "কাকারিমাস"
+    },
+    {
+      "bangla": "ছুটি নেওয়া / বিশ্রাম করা [কোম্পানি থেকে ছুটি নেওয়া]",
+      "japanese": "やすみます［かいしゃを〜］",
+      "romaji": "ইয়াসুমিমাস [কাইশাও~]"
+    },
+    {
+      "bangla": "একটা",
+      "japanese": "ひとつ",
+      "romaji": "হিতোৎসু"
+    },
+    {
+      "bangla": "দুইটা",
+      "japanese": "ふたつ",
+      "romaji": "ফুৎসুকা"
+    },
+    {
+      "bangla": "তিনটা",
+      "japanese": "みっつ",
+      "romaji": "মিৎসু"
+    },
+    {
+      "bangla": "চারটা",
+      "japanese": "よっつ",
+      "romaji": "ইওৎসু"
+    },
+    {
+      "bangla": "পাঁচটা",
+      "japanese": "いつつ",
+      "romaji": "ইৎসুৎসু"
+    },
+    {
+      "bangla": "ছয়টা",
+      "japanese": "むっつ",
+      "romaji": "মুৎসু"
+    },
+    {
+      "bangla": "সাতটা",
+      "japanese": "ななつ",
+      "romaji": "নানাৎসু"
+    },
+    {
+      "bangla": "আটটা",
+      "japanese": "やっつ",
+      "romaji": "ইয়াৎসু"
+    },
+    {
+      "bangla": "নয়টা",
+      "japanese": "ここのつ",
+      "romaji": "কোকোনোৎসু"
+    },
+    {
+      "bangla": "দশটা",
+      "japanese": "とお",
+      "romaji": "তৌ"
+    },
+    {
+      "bangla": "কতগুলো",
+      "japanese": "いくつ",
+      "romaji": "ইকুৎসু"
+    },
+    {
+      "bangla": "একজন",
+      "japanese": "ひとり",
+      "romaji": "হিতোরি"
+    },
+    {
+      "bangla": "দুইজন",
+      "japanese": "ふたり",
+      "romaji": "ফুতারি"
+    },
+    {
+      "bangla": "একজন / মানুষ",
+      "japanese": "いちにん",
+      "romaji": "ইচিনিন"
+    },
+    {
+      "bangla": "মেশিন / গাড়ি গণনার কাউন্টার",
+      "japanese": "～だい",
+      "romaji": "~ দাই"
+    },
+    {
+      "bangla": "পাতলা জিনিস গণনার কাউন্টার",
+      "japanese": "～まい",
+      "romaji": "~ মাই"
+    },
+    {
+      "bangla": "বার / বারবার",
+      "japanese": "～かい",
+      "romaji": "~ কাই"
+    },
+    {
+      "bangla": "আপেল",
+      "japanese": "りんご",
+      "romaji": "রিঙ্গো"
+    },
+    {
+      "bangla": "কমলা",
+      "japanese": "みかん",
+      "romaji": "মিকান"
+    },
+    {
+      "bangla": "স্যান্ডউইচ",
+      "japanese": "サンドイッチ",
+      "romaji": "সান্দোইচ্‌চি"
+    },
+    {
+      "bangla": "কারি",
+      "japanese": "カレー",
+      "romaji": "কারে"
+    },
+    {
+      "bangla": "আইসক্রিম",
+      "japanese": "アイスクリーム",
+      "romaji": "আইসুকুরিমু"
+    },
+    {
+      "bangla": "ডাকটিকিট",
+      "japanese": "きて",
+      "romaji": "কিপ্‌তে"
+    },
+    {
+      "bangla": "পোস্টকার্ড",
+      "japanese": "はがき",
+      "romaji": "হাগাকি"
+    },
+    {
+      "bangla": "খাম",
+      "japanese": "ふうとう",
+      "romaji": "ফুতৌ"
+    },
+    {
+      "bangla": "বাবা-মা",
+      "japanese": "りょうしん",
+      "romaji": "রিওউশিন"
+    },
+    {
+      "bangla": "ভাই-বোন",
+      "japanese": "きょうだい",
+      "romaji": "কিওউদাই"
+    },
+    {
+      "bangla": "বড় ভাই",
+      "japanese": "あに",
+      "romaji": "আনি"
+    },
+    {
+      "bangla": "অন্যের বড় ভাই",
+      "japanese": "おにいさん",
+      "romaji": "ওনীসান"
+    },
+    {
+      "bangla": "বড় বোন",
+      "japanese": "あね",
+      "romaji": "আনে"
+    },
+    {
+      "bangla": "অন্যের বড় বোন",
+      "japanese": "おねえさん",
+      "romaji": "ওনেসান"
+    },
+    {
+      "bangla": "ছোট ভাই",
+      "japanese": "おとうと",
+      "romaji": "ওতৌতো"
+    },
+    {
+      "bangla": "অন্যের ছোট ভাই",
+      "japanese": "おとうとさん",
+      "romaji": "ওতৌতোসান"
+    },
+    {
+      "bangla": "ছোট বোন",
+      "japanese": "いもうと",
+      "romaji": "ইমৌতো"
+    },
+    {
+      "bangla": "অন্যের ছোট বোন",
+      "japanese": "いもうとさん",
+      "romaji": "ইমৌতোসান"
+    },
+    {
+      "bangla": "বিদেশ",
+      "japanese": "がいこく",
+      "romaji": "গাইকোকু"
+    },
+    {
+      "bangla": "বিদেশি ছাত্র",
+      "japanese": "りゅうがくせい",
+      "romaji": "রিউগাকুসেই"
+    },
+    {
+      "bangla": "ক্লাস",
+      "japanese": "クラス",
+      "romaji": "কুরাসু"
+    },
+    {
+      "bangla": "ঘণ্টা",
+      "japanese": "～じかん",
+      "romaji": "~ জিকান"
+    },
+    {
+      "bangla": "সপ্তাহ",
+      "japanese": "～しゅうかん",
+      "romaji": "~ শিউকান"
+    },
+    {
+      "bangla": "মাস",
+      "japanese": "～かげつ",
+      "romaji": "~ কাগেৎসু"
+    },
+    {
+      "bangla": "বছর",
+      "japanese": "～ねん",
+      "romaji": "~ নেন"
+    },
+    {
+      "bangla": "প্রায় / মতো",
+      "japanese": "～ぐらい",
+      "romaji": "~ গুরাই"
+    },
+    {
+      "bangla": "কতদিন / কতটা",
+      "japanese": "どのくらい",
+      "romaji": "দোনো কুরাই"
+    },
+    {
+      "bangla": "সব মিলিয়ে",
+      "japanese": "ぜんぶで",
+      "romaji": "জেম্বুদে"
+    },
+    {
+      "bangla": "সবাই",
+      "japanese": "みんな",
+      "romaji": "মিন্না"
+    },
+    {
+      "bangla": "শুধু",
+      "japanese": "～だけ",
+      "romaji": "~ দাকে"
+    },
+    {
+      "bangla": "অবশ্যই / ঠিক আছে",
+      "japanese": "かしこまりました",
+      "romaji": "কাশিকোমারিমাশ্‌তা"
+    },
+    {
+      "bangla": "আজ আবহাওয়া ভালো, তাই না?",
+      "japanese": "いい おてんきですね",
+      "romaji": "ইই ওতেনকি দেস নে"
+    },
+    {
+      "bangla": "বাইরে যাচ্ছেন?",
+      "japanese": "おでかけですか",
+      "romaji": "ওদেকাকে দেস কা"
+    },
+    {
+      "bangla": "একটু ~ পর্যন্ত যাচ্ছি",
+      "japanese": "ちょっと 〜まで",
+      "romaji": "চোত্‌তো ~ মাদে"
+    },
+    {
+      "bangla": "ভালোভাবে যান / আবার ফিরে আসবেন",
+      "japanese": "いってらっしゃい",
+      "romaji": "ইত্তেরাোশ্‌শাই"
+    },
+    {
+      "bangla": "আমি যাচ্ছি, আবার আসবো",
+      "japanese": "いてきます",
+      "romaji": "ইত্তেকিমাস"
+    },
+    {
+      "bangla": "সমুদ্র ডাক",
+      "japanese": "ふなびん",
+      "romaji": "ফুনাবিন"
+    },
+    {
+      "bangla": "এয়ারমেইল / বিমান ডাক",
+      "japanese": "こうくうびん",
+      "romaji": "কৌকুউবিন"
+    },
+    {
+      "bangla": "অনুগ্রহ করে / প্লিজ",
+      "japanese": "おねがいします",
+      "romaji": "ওনেগাইশিমাস"
+    },
+    {
+      "bangla": "অস্ট্রেলিয়া",
+      "japanese": "オーストラリア",
+      "romaji": "ওওসুতোরারিআ"
+    }
+  ],
+  "lesson12": [
+    null,
+    {
+      "bangla": "সহজ, সরল",
+      "japanese": "かんたん［な］",
+      "romaji": "কানতান [না]"
+    },
+    {
+      "bangla": "কাছে, নিকট",
+      "japanese": "ちかい",
+      "romaji": "চিকাই"
+    },
+    {
+      "bangla": "দূরে",
+      "japanese": "とおい",
+      "romaji": "তৌই"
+    },
+    {
+      "bangla": "দ্রুত, তাড়াতাড়ি",
+      "japanese": "はやい",
+      "romaji": "হায়াই"
+    },
+    {
+      "bangla": "ধীর, দেরি",
+      "japanese": "おそい",
+      "romaji": "ওসোই"
+    },
+    {
+      "bangla": "অনেক [মানুষ], বেশি",
+      "japanese": "おおい［ひとが〜］",
+      "romaji": "ওওই [হিতোগা~]"
+    },
+    {
+      "bangla": "অল্প [মানুষ], কম",
+      "japanese": "すくない［ひとが〜］",
+      "romaji": "সুকুন্নাই [হিতোগা~]"
+    },
+    {
+      "bangla": "গরম, উষ্ণ",
+      "japanese": "あたたかい",
+      "romaji": "আতাতাকাই"
+    },
+    {
+      "bangla": "ঠান্ডা, শীতল",
+      "japanese": "すずしい",
+      "romaji": "সুজুশী"
+    },
+    {
+      "bangla": "মিষ্টি",
+      "japanese": "あまい",
+      "romaji": "আমাই"
+    },
+    {
+      "bangla": "ঝাল",
+      "japanese": "からい",
+      "romaji": "কারাই"
+    },
+    {
+      "bangla": "ভারী",
+      "japanese": "おもい",
+      "romaji": "ওমোই"
+    },
+    {
+      "bangla": "হালকা",
+      "japanese": "かるい",
+      "romaji": "কারুই"
+    },
+    {
+      "bangla": "পছন্দ করা [কফি]",
+      "japanese": "いい［コーヒーが〜］",
+      "romaji": "ইই [কোহীগা~]"
+    },
+    {
+      "bangla": "ঋতু",
+      "japanese": "きせつ",
+      "romaji": "কিসেৎসু"
+    },
+    {
+      "bangla": "বসন্ত",
+      "japanese": "はる",
+      "romaji": "হারু"
+    },
+    {
+      "bangla": "গ্রীষ্ম",
+      "japanese": "なつ",
+      "romaji": "নাৎসু"
+    },
+    {
+      "bangla": "শরৎ",
+      "japanese": "あき",
+      "romaji": "আকি"
+    },
+    {
+      "bangla": "শীত",
+      "japanese": "ふゆ",
+      "romaji": "ফুয়ু"
+    },
+    {
+      "bangla": "আবহাওয়া",
+      "japanese": "てんき",
+      "romaji": "তেনকি"
+    },
+    {
+      "bangla": "বৃষ্টি",
+      "japanese": "あめ",
+      "romaji": "আমে"
+    },
+    {
+      "bangla": "তুষার, বরফ",
+      "japanese": "ゆき",
+      "romaji": "য়ুকি"
+    },
+    {
+      "bangla": "মেঘला",
+      "japanese": "くもり",
+      "romaji": "কুমোরি"
+    },
+    {
+      "bangla": "হোটেল",
+      "japanese": "ホテル",
+      "romaji": "হোতেরু"
+    },
+    {
+      "bangla": "বিমানবন্দর",
+      "japanese": "くうこう",
+      "romaji": "কূকৌ"
+    },
+    {
+      "bangla": "সমুদ্র",
+      "japanese": "うみ",
+      "romaji": "উমি"
+    },
+    {
+      "bangla": "পৃথিবী / বিশ্ব",
+      "japanese": "せかい",
+      "romaji": "সেকাই"
+    },
+    {
+      "bangla": "পার্টি",
+      "japanese": "パーティー",
+      "romaji": "পাতী"
+    },
+    {
+      "bangla": "উত্সব",
+      "japanese": "おまつり",
+      "romaji": "ওমাৎসুরি"
+    },
+    {
+      "bangla": "গরুর মাংস ও সবজির হট পট খাবার",
+      "japanese": "すきやき",
+      "romaji": "সুকিয়াকি"
+    },
+    {
+      "bangla": "কাঁচা মাছের স্লাইস",
+      "japanese": "さしみ",
+      "romaji": "সাশিমি"
+    },
+    {
+      "bangla": "ভিনেগার দেওয়া ভাতের সাথে কাঁচা মাছের খাবার",
+      "japanese": "すし",
+      "romaji": "সুশি"
+    },
+    {
+      "bangla": "ব্যাটারে ডুবিয়ে ভাজা মাছ/সবজি",
+      "japanese": "てんぷら",
+      "romaji": " তেম্পুরা"
+    },
+    {
+      "bangla": "শূকরের মাংস",
+      "japanese": "ぶたにく",
+      "romaji": "বুতানিকু"
+    },
+    {
+      "bangla": "মুরগির মাংস",
+      "japanese": "とりにく",
+      "romaji": "তোরিনিকু"
+    },
+    {
+      "bangla": "গরুর মাংস",
+      "japanese": "ぎゅうにく",
+      "romaji": "গিউনিকু"
+    },
+    {
+      "bangla": "লেবু",
+      "japanese": "レモン",
+      "romaji": "রেমোন"
+    },
+    {
+      "bangla": "ফুল সাজানো শিল্প",
+      "japanese": "いけばな",
+      "romaji": "ইকেবানা"
+    },
+    {
+      "bangla": "লাল শরতের পাতা / ম্যাপল পাতা",
+      "japanese": "もみじ",
+      "romaji": "মোমিজি"
+    },
+    {
+      "bangla": "কোনটি (দুইটার মধ্যে)",
+      "japanese": "どちら",
+      "romaji": "দোচিরা"
+    },
+    {
+      "bangla": "দুটোই / উভয়ই",
+      "japanese": "どちらも",
+      "romaji": "দোচিরামো"
+    },
+    {
+      "bangla": "সবচেয়ে",
+      "japanese": "いちばん",
+      "romaji": "ইচিবান"
+    },
+    {
+      "bangla": "অনেক বেশি / অনেক দূর পর্যন্ত",
+      "japanese": "ずっと",
+      "romaji": "জুত্তো"
+    },
+    {
+      "bangla": "প্রথমবার",
+      "japanese": "はじめて",
+      "romaji": "হাজিমিতে"
+    },
+    {
+      "bangla": "আমি বাসায় ফিরেছি / এখনই এলাম",
+      "japanese": "ただいま",
+      "romaji": "তাদাইমা"
+    },
+    {
+      "bangla": "বাসায় স্বাগতম / ফিরে এসেছো, স্বাগতম",
+      "japanese": "おかえりなさい",
+      "romaji": "ওকাএরিনাসাই"
+    },
+    {
+      "bangla": "ওয়াও! অনেক মানুষ, তাই না!",
+      "japanese": "わあ、すごい ひとですね。",
+      "romaji": "ওয়াআ, সুগোই হিতো দেস নে"
+    },
+    {
+      "bangla": "আমি ক্লান্ত।",
+      "japanese": "つかれました。",
+      "romaji": "ৎসুকারেমাশ্‌তা"
+    },
+    {
+      "bangla": "গিওন উৎসব",
+      "japanese": "ぎおんまつり",
+      "romaji": "গিওন মাৎসুরি"
+    },
+    {
+      "bangla": "হংকং",
+      "japanese": "ホンコン",
+      "romaji": "হনকন"
+    },
+    {
+      "bangla": "সিঙ্গাপুর",
+      "japanese": "シンガポール",
+      "romaji": "শিঙ্গাপোরু"
+    },
+    {
+      "bangla": "ABC স্টোর",
+      "japanese": "ABCストア",
+      "romaji": "এবিশী সুতোআ"
+    }
+  ],
+  "lesson13": [
+    null,
+    {
+      "bangla": "খেলাধুলা করা / আনন্দ করা",
+      "japanese": "あそびます",
+      "romaji": "আসোবিমাস"
+    },
+    {
+      "bangla": "সাঁতার কাটা",
+      "japanese": "およぎます",
+      "romaji": "অয়োগিমাস"
+    },
+    {
+      "bangla": "নিতে যাওয়া / স্বাগত জানানো",
+      "japanese": "むかえます",
+      "romaji": "মুকাএমাস"
+    },
+    {
+      "bangla": "ক্লান্ত হওয়া",
+      "japanese": "つかれます",
+      "romaji": "ৎসুকারেমাস"
+    },
+    {
+      "bangla": "বিয়ে করা",
+      "japanese": "けっこんします",
+      "romaji": "কেক্কোন্শিমাস"
+    },
+    {
+      "bangla": "কেনাকাটা করা",
+      "japanese": "かいものします",
+      "romaji": "কাইমোনোশিমাস"
+    },
+    {
+      "bangla": " খাবার খাওয়া",
+      "japanese": "しょくじします",
+      "romaji": "শোকুজিশিমাস"
+    },
+    {
+      "bangla": "হাঁটাহাঁটি করা",
+      "japanese": "さんぽします",
+      "romaji": "সাম্পোশিমাস"
+    },
+    {
+      "bangla": "কঠিন / কষ্টকর / ভয়াবহ",
+      "japanese": "たいへん",
+      "romaji": "তাইহেন"
+    },
+    {
+      "bangla": "চাই / প্রয়োজন",
+      "japanese": "ほしい",
+      "romaji": "হশী"
+    },
+    {
+      "bangla": "প্রশস্ত / বড়",
+      "japanese": "ひろい",
+      "romaji": "হিরোই"
+    },
+    {
+      "bangla": "সংকীর্ণ / ছোট",
+      "japanese": "せまい",
+      "romaji": "সেমাই"
+    },
+    {
+      "bangla": "সুইমিং পুল",
+      "japanese": "プール",
+      "romaji": "পুরু"
+    },
+    {
+      "bangla": "নদী",
+      "japanese": "かわ",
+      "romaji": "কাওয়া"
+    },
+    {
+      "bangla": "চারুকলা / ফাইন আর্টস",
+      "japanese": "びじゅつ",
+      "romaji": "বিজুৎসু"
+    },
+    {
+      "bangla": "মাছ ধরা",
+      "japanese": "つり",
+      "romaji": "ৎসুরি"
+    },
+    {
+      "bangla": "স্কি খেলা",
+      "japanese": "スキー",
+      "romaji": "সুকী"
+    },
+    {
+      "bangla": "সপ্তাহান্ত / উইকএন্ড",
+      "japanese": "しゅうまつ",
+      "romaji": "শূমাৎসু"
+    },
+    {
+      "bangla": "নববর্ষ (জাপানি)",
+      "japanese": "おしょうがつ",
+      "romaji": "ওশৌগাৎসু"
+    },
+    {
+      "bangla": "প্রায় / নাগাদ (সময়ের ক্ষেত্রে)",
+      "japanese": "〜ごろ",
+      "romaji": "~ গোরো"
+    },
+    {
+      "bangla": "কিছু",
+      "japanese": "なにか",
+      "romaji": "নানিকা"
+    },
+    {
+      "bangla": "কোথাও",
+      "japanese": "どこか",
+      "romaji": "দোকোকা"
+    },
+    {
+      "bangla": "পিপাসা লাগা",
+      "japanese": "のどが かわきます",
+      "romaji": "নদোগা কাওয়াকিমাস"
+    },
+    {
+      "bangla": "ক্ষুধা লাগা",
+      "japanese": "おなかが すきます",
+      "romaji": "অনকাগা সুকিমাস"
+    },
+    {
+      "bangla": "তাই করি / ঠিক আছে, তাই করা যাক",
+      "japanese": "そうしましょう。",
+      "romaji": "সৌ শিমশৌ"
+    },
+    {
+      "bangla": "আপনার অর্ডার কী?",
+      "japanese": "ごちゅうもんは？",
+      "romaji": "গোচূমোন্ওয়া"
+    },
+    {
+      "bangla": "সেট মেনু / নির্ধারিত খাবার",
+      "japanese": "ていしょく",
+      "romaji": "তেইশোকু"
+    },
+    {
+      "bangla": "গরুর মাংসের ভাতের বাটি (বিফ রাইস বোল)",
+      "japanese": "ぎゅうどん",
+      "romaji": "গিউদোন"
+    },
+    {
+      "bangla": "অনুগ্রহ করে একটু অপেক্ষা করুন",
+      "japanese": "しょうしょう おまちください。",
+      "romaji": "শৌশৌ ওমাচিকুদাশাই"
+    },
+    {
+      "bangla": "ভদ্রভাবে \"আছে / হয়\" বলা",
+      "japanese": "〜でございます",
+      "romaji": "~ দেগোজাইমাস"
+    },
+    {
+      "bangla": "আলাদা আলাদা করে",
+      "japanese": "べつべつに",
+      "romaji": "বেৎসুবেৎসুনি"
+    },
+    {
+      "bangla": "কাল্পনিক কোম্পানির নাম",
+      "japanese": "アキックス",
+      "romaji": "আকিক্কুসু"
+    },
+    {
+      "bangla": "কাল্পনিক টিভি প্রোগ্রামের নাম",
+      "japanese": "おはようテレビ",
+      "romaji": "অহয়ৌ তেরেবি"
+    }
+  ],
+  "lesson14": [
+    null,
+    {
+      "bangla": "চালু করা (লাইট, ফ্যান ইত্যাদি) / Turn on",
+      "japanese": "つけます",
+      "romaji": "ৎসুকেমাস"
+    },
+    {
+      "bangla": "বন্ধ করা (লাইট, ফ্যান ইত্যাদি) / Turn off",
+      "japanese": "けします",
+      "romaji": "কেশিমাস"
+    },
+    {
+      "bangla": "খোলা / Open",
+      "japanese": "あけます",
+      "romaji": "আকেমাস"
+    },
+    {
+      "bangla": "বন্ধ করা (দরজা, জানালা ইত্যাদি) / Close, shut",
+      "japanese": "しめます",
+      "romaji": "শিমেমাস"
+    },
+    {
+      "bangla": "তাড়াহুড়ো করা / Hurry",
+      "japanese": "いそぎます",
+      "romaji": "ইসোগিমাস"
+    },
+    {
+      "bangla": "অপেক্ষা করা / Wait",
+      "japanese": "まちます",
+      "romaji": "মাচিমাস"
+    },
+    {
+      "bangla": "ধরা, বহন করা / Hold, carry",
+      "japanese": "もちます",
+      "romaji": "মোচিমাস"
+    },
+    {
+      "bangla": "নেওয়া, এগিয়ে দেওয়া / Take, pass",
+      "japanese": "とります",
+      "romaji": "তোরিমাস"
+    },
+    {
+      "bangla": "সাহায্য করা (কাজে) / Help (with a task)",
+      "japanese": "てつだいます",
+      "romaji": "তেৎসুদাইমাস"
+    },
+    {
+      "bangla": "ডাকা / Call",
+      "japanese": "よびます",
+      "romaji": "য়োবিমাস"
+    },
+    {
+      "bangla": "কথা বলা / Speak, talk",
+      "japanese": "はなします",
+      "romaji": "হানাশিমাস"
+    },
+    {
+      "bangla": "ব্যবহার করা / Use",
+      "japanese": "つかいます",
+      "romaji": "ৎসুখাইমাস"
+    },
+    {
+      "bangla": "থামানো, পার্ক করা / Stop, park",
+      "japanese": "とめます",
+      "romaji": "তোমেমাস"
+    },
+    {
+      "bangla": "দেখানো / Show",
+      "japanese": "みせます",
+      "romaji": "মিশেমাস"
+    },
+    {
+      "bangla": "বলা, জানিয়ে দেওয়া (जैसे: ঠিকানা) / Tell [an address]",
+      "japanese": "おしえます",
+      "romaji": "ওশিয়েমাস"
+    },
+    {
+      "bangla": "বসা / Sit down",
+      "japanese": "すわります",
+      "romaji": "সুওয়ারিমাস"
+    },
+    {
+      "bangla": "দাঁড়ানো / Stand up",
+      "japanese": "たちます",
+      "romaji": "তাচিমাস"
+    },
+    {
+      "bangla": "প্রবেশ করা (যেমন: ক্যাফেতে) / Enter [a café]",
+      "japanese": "はいります［きっさてんに〜］",
+      "romaji": "হাইরিমাস [কিস্‌সাতেন্নি~]"
+    },
+    {
+      "bangla": "বের হওয়া (যেমন: ক্যাফে থেকে) / Go out [of a café]",
+      "japanese": "でます［きっさてんを〜］",
+      "romaji": "দেমাস [কিস্‌সাতেনও~]"
+    },
+    {
+      "bangla": "বৃষ্টি পড়া / Rain",
+      "japanese": "ふります［あめが〜］",
+      "romaji": "ফুরিমাস [আমেগা~]"
+    },
+    {
+      "bangla": "ফটোকপি করা / Copy",
+      "japanese": "コピーします",
+      "romaji": "কোপী শিমাস"
+    },
+    {
+      "bangla": "বিদ্যুৎ, আলো / Electricity, light",
+      "japanese": "でんき",
+      "romaji": "দেনকি"
+    },
+    {
+      "bangla": "এয়ার কন্ডিশনার / Air conditioner",
+      "japanese": "エアコン",
+      "romaji": "এয়াকন"
+    },
+    {
+      "bangla": "পাসপোর্ট / Passport",
+      "japanese": "パスポート",
+      "romaji": "পাসুপোতো"
+    },
+    {
+      "bangla": "নাম / Name",
+      "japanese": "なまえ",
+      "romaji": "নামায়ে"
+    },
+    {
+      "bangla": "ঠিকানা / Address",
+      "japanese": "じゅうしょ",
+      "romaji": "জুউশো"
+    },
+    {
+      "bangla": "মানচিত্র / Map",
+      "japanese": "ちず",
+      "romaji": "চিজু"
+    },
+    {
+      "bangla": "লবণ / Salt",
+      "japanese": "しお",
+      "romaji": "শিও"
+    },
+    {
+      "bangla": "চিনি / Sugar",
+      "japanese": "さとう",
+      "romaji": "সাতৌ"
+    },
+    {
+      "bangla": "প্রশ্ন, সমস্যা / Question, problem, trouble",
+      "japanese": "もんだい",
+      "romaji": "মোনদাই"
+    },
+    {
+      "bangla": "উত্তর / Answer",
+      "japanese": "こたえ",
+      "romaji": "কোতায়ে"
+    },
+    {
+      "bangla": "পড়ার নিয়ম / How to read, way of reading",
+      "japanese": "よみかた",
+      "romaji": "য়োমিকাতা"
+    },
+    {
+      "bangla": "~ করার নিয়ম বা পদ্ধতি / How to ~, way of ~ing",
+      "japanese": "～かた",
+      "romaji": "~ কাতা"
+    },
+    {
+      "bangla": "সোজা / Straight",
+      "japanese": "まっすぐ",
+      "romaji": "মাস্‌সুগু"
+    },
+    {
+      "bangla": "আস্তে আস্তে, তাড়াহুড়ো না করে / Slowly, leisurely",
+      "japanese": "ゆっくり",
+      "romaji": "য়ুক্‌কুরি"
+    },
+    {
+      "bangla": "এক্ষুনি, সাথে সাথে / Immediately",
+      "japanese": "すぐ",
+      "romaji": "সুগু"
+    },
+    {
+      "bangla": "আবার / Again",
+      "japanese": "また",
+      "romaji": "মাতা"
+    },
+    {
+      "bangla": "পরে / Later",
+      "japanese": "あとで",
+      "romaji": "আতোদে"
+    },
+    {
+      "bangla": "আরেকটু, আর সামান্য / A little more",
+      "japanese": "もう すこし",
+      "romaji": "মৌ সুকোশি"
+    },
+    {
+      "bangla": "আরও ~ (যেমন: আরও একবার, আরও একজন) / ~ more, another ~",
+      "japanese": "もう ～",
+      "romaji": "মৌ ~"
+    },
+    {
+      "bangla": "अच्छा, তাহলে (কাউকে কোনো কাজে উৎসাহিত করতে) / Right (used when encouraging some course of action)",
+      "japanese": "さあ",
+      "romaji": "সাআ"
+    },
+    {
+      "bangla": "তাই নাকি? / ওমা! (অবাক বা বিস্মিত হয়ে) / Oh! Eh? (in surprise or wonder)",
+      "japanese": "あれ？",
+      "romaji": "আরে?"
+    },
+    {
+      "bangla": "সিগন্যাল থেকে ডানে মোড় নিন। / Turn right at the traffic lights.",
+      "japanese": "しんごうを みぎへ まがって ください",
+      "romaji": "শিনগৌও মিগিএ মাগাত্তে কুদাশাই"
+    },
+    {
+      "bangla": "এটা দিয়ে রাখুন (টাকা দেওয়ার সময়)। / I'd like to pay with this.",
+      "japanese": "これで おねがいします",
+      "romaji": "কোরেদে ওনেগাইশিমাস"
+    },
+    {
+      "bangla": "ফেরত টাকা (খুচরো) / Change",
+      "japanese": "おつり",
+      "romaji": "ওৎসুরি"
+    },
+    {
+      "bangla": "মিদোরিচো (একটি কাল্পনিক শহরের নাম) / A fictitious town",
+      "japanese": "みどりちょう",
+      "romaji": "মিদোরিচৌ"
+    }
+  ],
+  "lesson15": [
+    null,
+    {
+      "bangla": "রাখা / স্থাপন করা",
+      "japanese": "おきます",
+      "romaji": "ওকিমাস"
+    },
+    {
+      "bangla": "তৈরি করা / উৎপাদন করা",
+      "japanese": "つくります",
+      "romaji": "ৎসুকুরিমাস"
+    },
+    {
+      "bangla": "বিক্রি করা",
+      "japanese": "うります",
+      "romaji": "উরিমাস"
+    },
+    {
+      "bangla": "জানা / পরিচিত হওয়া",
+      "japanese": "しります",
+      "romaji": "শিরিমাস"
+    },
+    {
+      "bangla": "বসবাস করা (শুরু করা)",
+      "japanese": "すみます",
+      "romaji": "সুমিমাস"
+    },
+    {
+      "bangla": "গবেষণা করা",
+      "japanese": "けんきゅうします",
+      "romaji": "কেনকিউশিমাস"
+    },
+    {
+      "bangla": "তথ্য / উপাত্ত / উপাদান",
+      "japanese": "しりょう",
+      "romaji": "শিরোউ"
+    },
+    {
+      "bangla": "ক্যাটালগ",
+      "japanese": "カタログ",
+      "romaji": "কাতারাগু"
+    },
+    {
+      "bangla": "সময়সূচী (বাস বা ট্রেনের)",
+      "japanese": "じこくひょう",
+      "romaji": "জিকোকুহিওউ"
+    },
+    {
+      "bangla": "পোশাক / জামাকাপড়",
+      "japanese": "ふく",
+      "romaji": "ফুকু"
+    },
+    {
+      "bangla": "পণ্য / উৎপাদিত সামগ্রী",
+      "japanese": "せいひん",
+      "romaji": "সেইহিন"
+    },
+    {
+      "bangla": "সফটওয়্যার",
+      "japanese": "ソフト",
+      "romaji": "সোফাতো"
+    },
+    {
+      "bangla": "ইলেকট্রনিক অভিধান",
+      "japanese": "でんしじしょ",
+      "romaji": "দেন্শিজিশো"
+    },
+    {
+      "bangla": "অর্থনীতি",
+      "japanese": "けいざい",
+      "romaji": "কেইজাই"
+    },
+    {
+      "bangla": "নগর ভবন / সিটি হল / পৌরসভা অফিস",
+      "japanese": "しやくしょ",
+      "romaji": "শিয়াখুশো"
+    },
+    {
+      "bangla": "উচ্চ মাধ্যমিক বিদ্যালয় (হাই স্কুল)",
+      "japanese": "こうこう",
+      "romaji": "কৌকৌ"
+    },
+    {
+      "bangla": "দন্তচিকিৎসক (ডেন্টিস্ট)",
+      "japanese": "はいしゃ",
+      "romaji": "হাইশা"
+    },
+    {
+      "bangla": "অবিবোহিত / সিঙ্গেল",
+      "japanese": "どくしん",
+      "romaji": "দোকুশিন"
+    },
+    {
+      "bangla": "দুঃখিত / মাফ করবেন",
+      "japanese": "すみません",
+      "romaji": "সুমিমাসেন"
+    },
+    {
+      "bangla": "ভদ্রমহিলা ও ভদ্রমহোদয়গণ / আপনারা সবাই",
+      "japanese": "みなさん",
+      "romaji": "মিনাসান"
+    },
+    {
+      "bangla": "মনে পড়া / স্মরণ করা",
+      "japanese": "おもいだします",
+      "romaji": "ওমোইদাশিমাস"
+    },
+    {
+      "bangla": "আছেন (থাকার সম্মানসূচক রূপ)",
+      "japanese": "いらっしゃいます",
+      "romaji": "ইরাশশাইমাস"
+    },
+    {
+      "bangla": "ওসাকার একটি শピング এলাকার নাম",
+      "japanese": "にっぽんばし",
+      "romaji": "নিপ্পোম্বাশি"
+    },
+    {
+      "bangla": "একটি কাল্পনিক টিভি অনুষ্ঠান",
+      "japanese": "みんなの インタビュー",
+      "romaji": "মিন্নানো ইন্তাবিউ"
+    }
+  ],
+  "lesson16": [
+    null,
+    {
+      "bangla": "চড়া / ট্রেনে ওঠা [ট্রেনে ~]",
+      "japanese": "のります［でんしゃに〜］",
+      "romaji": "নোরিমাস [দেন্শানি~]"
+    },
+    {
+      "bangla": "নামা / ট্রেন থেকে নামা [ট্রেন থেকে ~]",
+      "japanese": "おります［でんしゃを〜］",
+      "romaji": "ওরিমাস [দেন্শাও~]"
+    },
+    {
+      "bangla": "যানবাহন বদলানো / ট্রান্সফার করা",
+      "japanese": "のりかえます",
+      "romaji": "নোরিকাএমাস"
+    },
+    {
+      "bangla": "গোসল করা / শাওয়ার নেওয়া [শাওয়ার ~]",
+      "japanese": "あびます［シャワーを〜］",
+      "romaji": "আবিমাস [শাওয় আও~]"
+    },
+    {
+      "bangla": "ভেতরে রাখা / ঢোকানো",
+      "japanese": "いれます",
+      "romaji": "ইরেমাস"
+    },
+    {
+      "bangla": "বের করা / জমা দেওয়া / পাঠানো",
+      "japanese": "だします",
+      "romaji": "দাশিমাস"
+    },
+    {
+      "bangla": "টাকা তোলা [টাকা ~]",
+      "japanese": "おろします［おかねを〜］",
+      "romaji": "অরোশিমাস [অকানেও~]"
+    },
+    {
+      "bangla": "প্রবেশ করা / ভর্তি হওয়া [বিশ্ববিদ্যালয়ে ~]",
+      "japanese": "はいります［だいがくに〜］",
+      "romaji": "হাইরিমাস [দাইগাকুনি~]"
+    },
+    {
+      "bangla": "বের হওয়া / স্নাতক হওয়া [বিশ্ববিদ্যালয় থেকে ~]",
+      "japanese": "でます［だいがくを〜］",
+      "romaji": "দেমাস [দাইগাকুও~]"
+    },
+    {
+      "bangla": "চাপ দেওয়া / বোতাম টেপা",
+      "japanese": "おします",
+      "romaji": "অশিমাস"
+    },
+    {
+      "bangla": "মদ পান করা",
+      "japanese": "のみます［おさけを〜］",
+      "romaji": "নমিমাস [অসাকেও~]"
+    },
+    {
+      "bangla": "শুরু করা",
+      "japanese": "はじめます",
+      "romaji": "হাজিমেমাস"
+    },
+    {
+      "bangla": "পরিদর্শন করা / শিক্ষা সফর করা",
+      "japanese": "けんがくします",
+      "romaji": "কেনগাকুশিমাস"
+    },
+    {
+      "bangla": "ফোন করা",
+      "japanese": "でんわします",
+      "romaji": "দেনওয়াশিমাস"
+    },
+    {
+      "bangla": "তরুণ / যুবক",
+      "japanese": "わかい",
+      "romaji": "ওয়াকাই"
+    },
+    {
+      "bangla": "লম্বা",
+      "japanese": "ながい",
+      "romaji": "নাগাই"
+    },
+    {
+      "bangla": "খাটো / ছোট",
+      "japanese": "みじかい",
+      "romaji": "মিজিকাই"
+    },
+    {
+      "bangla": "উজ্জ্বল / আলোযুক্ত",
+      "japanese": "あかるい",
+      "romaji": "আকারুই"
+    },
+    {
+      "bangla": "অন্ধকার",
+      "japanese": "くらい",
+      "romaji": "কুরাই"
+    },
+    {
+      "bangla": "শরীর",
+      "japanese": "からだ",
+      "romaji": "কারাদা"
+    },
+    {
+      "bangla": "মাঠা",
+      "japanese": "あたま",
+      "romaji": "আতামা"
+    },
+    {
+      "bangla": "চুল",
+      "japanese": "かみ",
+      "romaji": "কামি"
+    },
+    {
+      "bangla": "মুখমণ্ডল",
+      "japanese": "かお",
+      "romaji": "কাও"
+    },
+    {
+      "bangla": "চোখ",
+      "japanese": "め",
+      "romaji": "মে"
+    },
+    {
+      "bangla": "কান",
+      "japanese": "みみ",
+      "romaji": "মিমি"
+    },
+    {
+      "bangla": "নাক",
+      "japanese": "はな",
+      "romaji": "হানা"
+    },
+    {
+      "bangla": "মুখ",
+      "japanese": "くち",
+      "romaji": "কুচি"
+    },
+    {
+      "bangla": "দাঁত",
+      "japanese": "は",
+      "romaji": "হা"
+    },
+    {
+      "bangla": "পেট",
+      "japanese": "おなか",
+      "romaji": "অনাকা"
+    },
+    {
+      "bangla": "পা",
+      "japanese": "あし",
+      "romaji": "আশি"
+    },
+    {
+      "bangla": "উচ্চতা / দেহের উচ্চতা",
+      "japanese": "せ",
+      "romaji": "সে"
+    },
+    {
+      "bangla": "সেবা / সার্ভিস",
+      "japanese": "サービス",
+      "romaji": "সাবিসু"
+    },
+    {
+      "bangla": "জগিং",
+      "japanese": "ジョギング",
+      "romaji": "জোগিন্গু"
+    },
+    {
+      "bangla": "শাওয়ার",
+      "japanese": "シャワー",
+      "romaji": "শাওয়া"
+    },
+    {
+      "bangla": "সবুজ",
+      "japanese": "みどり",
+      "romaji": "মিদোরি"
+    },
+    {
+      "bangla": "বৌদ্ধ মন্দির",
+      "japanese": "おてら",
+      "romaji": "ওতেরা"
+    },
+    {
+      "bangla": "শিন্তো মন্দির",
+      "japanese": "じんじゃ",
+      "romaji": "জিন্জা"
+    },
+    {
+      "bangla": "সবচেয়ে / এক নম্বর",
+      "japanese": "いちばん",
+      "romaji": "ইচিবান"
+    },
+    {
+      "bangla": "কীভাবে",
+      "japanese": "どうやって",
+      "romaji": "দৌয়াত্তে"
+    },
+    {
+      "bangla": "কোন ~ (তিন বা ততোধিকের মধ্যে)",
+      "japanese": "どの〜",
+      "romaji": "দোনো ~"
+    },
+    {
+      "bangla": "কোনটি (তিন বা ততোধিকের মধ্যে)",
+      "japanese": "どれ",
+      "romaji": "দোরে"
+    },
+    {
+      "bangla": "দারুণ!",
+      "japanese": "すごいですね。",
+      "romaji": "সুগোই দেস নে"
+    },
+    {
+      "bangla": "না, এখনও অনেক কিছু শেখা বাকি।",
+      "japanese": "いいえ、まだまだです。",
+      "romaji": "ইইএ, মডামডা দেস"
+    },
+    {
+      "bangla": "আপনি কি টাকা তুলছেন?",
+      "japanese": "おひきだしですか。",
+      "romaji": "অহিকিদাসি দেস কা"
+    },
+    {
+      "bangla": "প্রথমে",
+      "japanese": "まず",
+      "romaji": "মাজু"
+    },
+    {
+      "bangla": "এরপর",
+      "japanese": "つぎに",
+      "romaji": "ৎসুগী নি"
+    },
+    {
+      "bangla": "এটিএম কার্ড",
+      "japanese": "キャッシュカード",
+      "romaji": "ক্যাশ্‌শু কাদো"
+    },
+    {
+      "bangla": "পিন নম্বর",
+      "japanese": "あんしょうばんごう",
+      "romaji": "আন্শৌবান্গৌ"
+    },
+    {
+      "bangla": "টাকার পরিমাণ",
+      "japanese": "きんがく",
+      "romaji": "কিন্গাকু"
+    },
+    {
+      "bangla": "নিশ্চিতকরণ / যাচাই",
+      "japanese": "かくにん",
+      "romaji": "কাকুনিন"
+    },
+    {
+      "bangla": "বোতাম",
+      "japanese": "ボタン",
+      "romaji": "বোতান"
+    },
+    {
+      "bangla": "জাপান রেলওয়ে",
+      "japanese": "JR",
+      "romaji": "জেই আরো"
+    },
+    {
+      "bangla": "তুষার উৎসব",
+      "japanese": "ゆきまつり",
+      "romaji": "য়ুকিমাৎসুরি"
+    },
+    {
+      "bangla": "বান্দুং (ইন্দোনেশিয়া)",
+      "japanese": "バンドン",
+      "romaji": "বান্দোন"
+    },
+    {
+      "bangla": "ফ্রাঙ্কেন (জার্মানি)",
+      "japanese": "フランケン",
+      "romaji": "ফুরান্কেন"
+    },
+    {
+      "bangla": "ভেরাক্রুজ (মেক্সিকো)",
+      "japanese": "ベラクルス",
+      "romaji": "বেরাকুরুসু"
+    },
+    {
+      "bangla": "ওসাকার একটি এলাকা",
+      "japanese": "うめだ",
+      "romaji": "উমেদা"
+    },
+    {
+      "bangla": "বিশ্ববিদ্যালয়ের সামনে (কাল্পনিক বাস স্টপ)",
+      "japanese": "だいがくまえ",
+      "romaji": "দাইগাকুমাএ"
+    }
+  ],
+  "lesson17": [
+    null,
+    {
+      "bangla": "মনে রাখা / মুখস্থ করা",
+      "japanese": "おぼえます",
+      "romaji": "ওবোএমাস"
+    },
+    {
+      "bangla": "ভুলে যাওয়া",
+      "japanese": "ওয়াসুরেমাস",
+      "romaji": "ওয়াসুরেমাস"
+    },
+    {
+      "bangla": "হারানো",
+      "japanese": "なくします",
+      "romaji": "নাকুশিমাস"
+    },
+    {
+      "bangla": "পরিশোধ করা / টাকা দেওয়া",
+      "japanese": "はらいます",
+      "romaji": "হারাইমাস"
+    },
+    {
+      "bangla": "ফেরত দেওয়া",
+      "japanese": "かえします",
+      "romaji": "কাএশিমাস"
+    },
+    {
+      "bangla": "বাইরে যাওয়া",
+      "japanese": "でかけます",
+      "romaji": "দেকাকেমাস"
+    },
+    {
+      "bangla": "খুলে ফেলা (কাপড়, জুতা)",
+      "japanese": "ぬぎます",
+      "romaji": "নুগিমাস"
+    },
+    {
+      "bangla": "সঙ্গে নিয়ে যাওয়া",
+      "japanese": "もっていきます",
+      "romaji": "মোত্তেইকিমাস"
+    },
+    {
+      "bangla": "সঙ্গে নিয়ে আসা",
+      "japanese": "もってきます",
+      "romaji": "মোত্তেকিমাস"
+    },
+    {
+      "bangla": "চিন্তা করা",
+      "japanese": "しんぱいします",
+      "romaji": "শিম্পাইশিমাস"
+    },
+    {
+      "bangla": "ওভারটাইম কাজ করা",
+      "japanese": "ざんぎょうします",
+      "romaji": "জান্গৌশিমাস"
+    },
+    {
+      "bangla": "অফিসের কাজে সফরে যাওয়া",
+      "japanese": "しゅっちょうします",
+      "romaji": "শুচ্চৌশিমাস"
+    },
+    {
+      "bangla": "খাওয়া / পান করা (ওষুধ)",
+      "japanese": "のみます［くすりを〜］",
+      "romaji": "নমিমাস [কুসুরিও~]"
+    },
+    {
+      "bangla": "প্রবেশ করা / গোসল করা",
+      "japanese": "はいります［おふろに〜］",
+      "romaji": "হাইরিমাস [অফুরোনি~]"
+    },
+    {
+      "bangla": "গুরুত্বপূর্ণ / মূল্যবান",
+      "japanese": "たいせつ［な］",
+      "romaji": "তাইসেৎসু [না]"
+    },
+    {
+      "bangla": "ঠিক আছে / সমস্যা নেই",
+      "japanese": "だいじょうぶ［な］",
+      "romaji": "দাইজৌবু [না]"
+    },
+    {
+      "bangla": "বিপজ্জনক",
+      "japanese": "あぶない",
+      "romaji": "আবুনাই"
+    },
+    {
+      "bangla": "ধূমপান নিষেধ",
+      "japanese": "きんえん",
+      "romaji": "কিন্এন"
+    },
+    {
+      "bangla": "স্বাস্থ্য বীমা কার্ড",
+      "japanese": "ほけんしょう",
+      "romaji": "হোকেন্শৌ"
+    },
+    {
+      "bangla": "জ্বর / শরীরের তাপমাত্রা",
+      "japanese": "ねつ",
+      "romaji": "নেৎসু"
+    },
+    {
+      "bangla": "অসুস্থতা / রোগ",
+      "japanese": "びょうき",
+      "romaji": "ব্যৌকি"
+    },
+    {
+      "bangla": "ওষুধ",
+      "japanese": "くすり",
+      "romaji": "কুসুরি"
+    },
+    {
+      "bangla": "গোসল / স্নান",
+      "japanese": "おふろ",
+      "romaji": "অফুরো"
+    },
+    {
+      "bangla": "জ্যাকেট / উপরের পোশাক",
+      "japanese": "うわぎ",
+      "romaji": "উওয়াগি"
+    },
+    {
+      "bangla": "অন্তর্বাস",
+      "japanese": "したぎ",
+      "romaji": "শিতাগি"
+    },
+    {
+      "bangla": "তিন দিন",
+      "japanese": "みっか",
+      "romaji": "মিক্কা"
+    },
+    {
+      "bangla": "তিনটি ~ (কাউন্টারসহ)",
+      "japanese": "さん〜",
+      "romaji": "সান ~"
+    },
+    {
+      "bangla": "~এর আগে / ~এর মধ্যে",
+      "japanese": "〜までに",
+      "romaji": "~ মাদেনি"
+    },
+    {
+      "bangla": "তাই / সুতরাং",
+      "japanese": "ですから",
+      "romaji": "দেসুকারা"
+    },
+    {
+      "bangla": "কী হয়েছে?",
+      "japanese": "どうしましたか。",
+      "romaji": "দৌ শিমাশ্‌তাকা"
+    },
+    {
+      "bangla": "গলা",
+      "japanese": "のど",
+      "romaji": "নোদো"
+    },
+    {
+      "bangla": "~ ব্যথা করছে",
+      "japanese": "〜がいたいです。",
+      "romaji": "~ গাইতাই দেস"
+    },
+    {
+      "bangla": "সর্দি / ফ্লু",
+      "japanese": "かぜ",
+      "romaji": "কাজে"
+    },
+    {
+      "bangla": "তারপর / এছাড়াও",
+      "japanese": "それから",
+      "romaji": "সোরেকরা"
+    },
+    {
+      "bangla": "নিজের যত্ন নিন / দ্রুত সুস্থ হোন",
+      "japanese": "おだいじに。",
+      "romaji": "ওদাইজিনি"
+    }
+  ],
+  "lesson18": [
+    null,
+    {
+      "bangla": "পারা / সমর্থ হওয়া",
+      "japanese": "できます",
+      "romaji": "দেকিমাস"
+    },
+    {
+      "bangla": "ধোয়া",
+      "japanese": "あらいます",
+      "romaji": "হারাইমাস"
+    },
+    {
+      "bangla": "বাজানো (তারের বা কি-বোর্ড বাদ্যযন্ত্র)",
+      "japanese": "ひきます",
+      "romaji": "হিকিমাস"
+    },
+    {
+      "bangla": "গান গাওয়া",
+      "japanese": "うたいます",
+      "romaji": "উতাইমাস"
+    },
+    {
+      "bangla": "সংগ্রহ করা / জড়ো করা",
+      "japanese": "あつめます",
+      "romaji": "আৎসুমেমাস"
+    },
+    {
+      "bangla": "ফেলে দেওয়া",
+      "japanese": "すてます",
+      "romaji": "সুতেমাস"
+    },
+    {
+      "bangla": "পরিবর্তন করা / বিনিময় করা",
+      "japanese": "かえます",
+      "romaji": "কাএমাস"
+    },
+    {
+      "bangla": "গাড়ি চালানো / ড্রাইভ করা",
+      "japanese": "うんてんします",
+      "romaji": "উন্তেনশিমাস"
+    },
+    {
+      "bangla": "বুকিং করা / রিজার্ভ করা",
+      "japanese": "よやくします",
+      "romaji": "য়োয়াকুশিমাস"
+    },
+    {
+      "bangla": "পিয়ানো",
+      "japanese": "ピアノ",
+      "romaji": "পিয়ানো"
+    },
+    {
+      "bangla": "মিটার",
+      "japanese": "メートル",
+      "romaji": "মেতোরু"
+    },
+    {
+      "bangla": "নগদ টাকা",
+      "japanese": "げんきん",
+      "romaji": "গেনকিন"
+    },
+    {
+      "bangla": "শখ",
+      "japanese": "しゅみ",
+      "romaji": "শুমি"
+    },
+    {
+      "bangla": "ডায়েরি / দিনলিপি",
+      "japanese": "にっき",
+      "romaji": "নিক্কি"
+    },
+    {
+      "bangla": "প্রার্থনা",
+      "japanese": "おいのり",
+      "romaji": "ওইনোরি"
+    },
+    {
+      "bangla": "সেকশন হেড / শাখার প্রধান",
+      "japanese": "かちょう",
+      "romaji": "কাচৌ"
+    },
+    {
+      "bangla": "ডিপার্টমেন্ট HEAD / বিভাগের প্রধান",
+      "japanese": "ぶちょう",
+      "romaji": "বুচৌ"
+    },
+    {
+      "bangla": "কোম্পানির প্রেসিডেন্ট / কোম্পানি প্রধান",
+      "japanese": "しゃちょう",
+      "romaji": "শাচৌ"
+    },
+    {
+      "bangla": "পশুপাখি / প্রাণী",
+      "japanese": "どうぶつ",
+      "romaji": "দৌবুৎসু"
+    },
+    {
+      "bangla": "ঘোড়া",
+      "japanese": "うま",
+      "romaji": "উমা"
+    },
+    {
+      "bangla": "ইন্টারনেট",
+      "japanese": "インターネット",
+      "romaji": "ইন্তানেত্তো"
+    },
+    {
+      "bangla": "विशेष করে / বিশেষভাবে",
+      "japanese": "とくに",
+      "romaji": "তোকুনি"
+    },
+    {
+      "bangla": "আরে! / সত্যি নাকি! (আশ্চর্য প্রকাশে)",
+      "japanese": "へえ",
+      "romaji": "হেএ"
+    },
+    {
+      "bangla": "এটা তো বেশ আকর্ষণীয়/মজার, তাই না?",
+      "japanese": "それは おもしろいですね。",
+      "romaji": "সোরে ওয়া ওমোশিরোই দেস নে"
+    },
+    {
+      "bangla": "সহজে না (না-বোধক বাক্যে ব্যবহৃত)",
+      "japanese": "なかなか",
+      "romaji": "নাকানাকা"
+    },
+    {
+      "bangla": "সত্যি? / আসলেই?",
+      "japanese": "ほんとうですか。",
+      "romaji": "হোন্তৌ দেস কা"
+    },
+    {
+      "bangla": "অবশ্যই / যেকোনো উপায়ে",
+      "japanese": "ぜひ",
+      "romaji": "জেহি"
+    },
+    {
+      "bangla": "ফুরুসাতো (জাপানি গানের শিরোনাম)",
+      "japanese": "ふるさと",
+      "romaji": "ফুরুসাতো"
+    },
+    {
+      "bangla": "দ্য বিটলস (ব্রিটিশ পপ ব্যান্ড)",
+      "japanese": "ビートルズ",
+      "romaji": "বীতোরুজু"
+    },
+    {
+      "bangla": "আকਿਹাবারা (টোকিওর একটি বিখ্যাত এলাকা)",
+      "japanese": "あきはばら",
+      "romaji": "আকিহাবারা"
+    }
+  ],
+  "lesson19": [
+    null,
+    {
+      "bangla": "আরোহণ করা, ওপরে ওঠা",
+      "japanese": "のぼります",
+      "romaji": "নোরিবিরিমাস"
+    },
+    {
+      "bangla": "অবস্থান করা/ثাকা",
+      "japanese": "とまります",
+      "romaji": "তোমারিমাস"
+    },
+    {
+      "bangla": "পরিষ্কার করা",
+      "japanese": "そうじします",
+      "romaji": "সৌজিশিমাস"
+    },
+    {
+      "bangla": "কাপড় ধোয়া",
+      "japanese": "せんたくします",
+      "romaji": "সেন্তাকুশিমাস"
+    },
+    {
+      "bangla": "হওয়া",
+      "japanese": "なります",
+      "romaji": "নারিমাস"
+    },
+    {
+      "bangla": "ঘুমন্ত বা ঘুম ঘুম ভাব",
+      "japanese": "ねむい",
+      "romaji": "নেমুই"
+    },
+    {
+      "bangla": "শক্তিশালী বা তীব্র",
+      "japanese": "つよい",
+      "romaji": "ৎসুয়োই"
+    },
+    {
+      "bangla": "দুর্বল",
+      "japanese": "よわい",
+      "romaji": "য়োওয়াই"
+    },
+    {
+      "bangla": "অনুশীলন",
+      "japanese": "れんしゅう",
+      "romaji": "রেনশূ"
+    },
+    {
+      "bangla": "গলফ খেলা",
+      "japanese": "ゴルフ",
+      "romaji": "গোরুফু"
+    },
+    {
+      "bangla": "সুমো কুস্তি",
+      "japanese": "すもう",
+      "romaji": "সুমৌ"
+    },
+    {
+      "bangla": "গ্রিন টি বা চা অনুষ্ঠান",
+      "japanese": "おちゃ",
+      "romaji": "ওচা"
+    },
+    {
+      "bangla": "দিন বা তারিখ",
+      "japanese": "ひ",
+      "romaji": "হি"
+    },
+    {
+      "bangla": "অবস্থা (শারীরিক/মানসিক)",
+      "japanese": "ちょうし",
+      "romaji": "চৌশি"
+    },
+    {
+      "bangla": "একবার",
+      "japanese": "いちど",
+      "romaji": "ইচিদো"
+    },
+    {
+      "bangla": "একবারও না",
+      "japanese": "いちども",
+      "romaji": "ইচিদামো"
+    },
+    {
+      "bangla": "ধীরে ধীরে",
+      "japanese": "だんだん",
+      "romaji": "দান্দান"
+    },
+    {
+      "bangla": "শীঘ্রই",
+      "japanese": "もうすぐ",
+      "romaji": "মৌসুগু"
+    },
+    {
+      "bangla": "আপনাদের দোয়ায় বা ধন্যবাদ",
+      "japanese": "おかげさまで",
+      "romaji": "ওকাগেসামাদে"
+    },
+    {
+      "bangla": "কিন্তু",
+      "japanese": "でも",
+      "romaji": "দেমো"
+    },
+    {
+      "bangla": "চিয়ার্স! বা পাত্র খালি করুন!",
+      "japanese": "かんぱい",
+      "romaji": "কাম্পাই"
+    },
+    {
+      "bangla": "ডায়েট বা ওজন নিয়ন্ত্রণ করা",
+      "japanese": "ダイエット",
+      "romaji": "দাইএত্তো"
+    },
+    {
+      "bangla": "অসম্ভব বা সাধ্যের বাইরে",
+      "japanese": "むり",
+      "romaji": "মুরি"
+    },
+    {
+      "bangla": "শরীরের জন্য ভালো",
+      "japanese": "からだにいい",
+      "romaji": "কারাদানি ইই"
+    },
+    {
+      "bangla": "টোকিও স্কাই ট্রি",
+      "japanese": "とうきょうスカイツリー",
+      "romaji": "তৌকিউ সুকাইৎসুরী"
+    },
+    {
+      "bangla": "কাৎসুশিকা হোকুসাই",
+      "japanese": "かつしかほくさい",
+      "romaji": "কাৎসুশিকা হোকুসাই"
+    }
+  ],
+  "lesson2": [
+    null,
+    {
+      "bangla": "এটি (আমার কাছের বস্তু)",
+      "japanese": "これ",
+      "romaji": "কোরে"
+    },
+    {
+      "bangla": "ওটি (আপনার কাছের বস্তু)",
+      "japanese": "それ",
+      "romaji": "সোরে"
+    },
+    {
+      "bangla": "সেটি (দূরের বস্তু)",
+      "japanese": "あれ",
+      "romaji": "আরে"
+    },
+    {
+      "bangla": "এই ~ (যেমন: এই বই)",
+      "japanese": "この ～",
+      "romaji": "কোনো ~"
+    },
+    {
+      "bangla": "ওই ~ (যেমন: ওই কলম)",
+      "japanese": "その ～",
+      "romaji": "সোনো ~"
+    },
+    {
+      "bangla": "সেই",
+      "japanese": "あの ～",
+      "romaji": "আনো ~"
+    },
+    {
+      "bangla": "বই",
+      "japanese": "ほん",
+      "romaji": "হন"
+    },
+    {
+      "bangla": "অভিধান",
+      "japanese": "じしょ",
+      "romaji": "জিশো"
+    },
+    {
+      "bangla": "পত্রিকা/ম্যাগাজিন",
+      "japanese": "ざっし",
+      "romaji": "জাস্‌শি"
+    },
+    {
+      "bangla": "সংবাদপত্র",
+      "japanese": "しんぶん",
+      "romaji": "শিম্বুন"
+    },
+    {
+      "bangla": "নোটবুক/খাতা",
+      "japanese": "ノート",
+      "romaji": "নৌতো"
+    },
+    {
+      "bangla": "পকেট ডায়েরি",
+      "japanese": "てちょう",
+      "romaji": "তেচৌ"
+    },
+    {
+      "bangla": "বিজনেস কার্ড",
+      "japanese": "めいし",
+      "romaji": "মেইশি"
+    },
+    {
+      "bangla": "কার্ড (ক্রেডিট কার্ড)",
+      "japanese": "カード",
+      "romaji": "কাদো"
+    },
+    {
+      "bangla": "পেন্সিল",
+      "japanese": "えんぴつ",
+      "romaji": "এম্পিৎসু"
+    },
+    {
+      "bangla": "বলপয়েন্ট কলম",
+      "japanese": "ボールペン",
+      "romaji": "বৌরুপেন"
+    },
+    {
+      "bangla": "মেকানিক্যাল পেন্সিল",
+      "japanese": "シャープペンシル",
+      "romaji": "শাপুপেন্শিলু"
+    },
+    {
+      "bangla": "চাবি",
+      "japanese": "かぎ",
+      "romaji": "কাগি"
+    },
+    {
+      "bangla": "ঘড়ি",
+      "japanese": "とけい",
+      "romaji": "তোকেই"
+    },
+    {
+      "bangla": "ছাতা",
+      "japanese": "かさ",
+      "romaji": "কাসা"
+    },
+    {
+      "bangla": "ব্যাগ",
+      "japanese": "かばん",
+      "romaji": "কাবান"
+    },
+    {
+      "bangla": "সিডি",
+      "japanese": "",
+      "romaji": "শিদি"
+    },
+    {
+      "bangla": "টেলিভিশন",
+      "japanese": "テレビ",
+      "romaji": "তেরেবি"
+    },
+    {
+      "bangla": "রেডিও",
+      "japanese": "ラジオ",
+      "romaji": "রাজিও"
+    },
+    {
+      "bangla": "ক্যামেরা",
+      "japanese": "カメラ",
+      "romaji": "ক্যামেরা"
+    },
+    {
+      "bangla": "কম্পিউটার",
+      "japanese": "コンピューター",
+      "romaji": "কোম্প্যূতানি"
+    },
+    {
+      "bangla": "গাড়ি",
+      "japanese": "くるま",
+      "romaji": "কুরুমা"
+    },
+    {
+      "bangla": "টেবিল/ডেস্ক",
+      "japanese": "つくえ",
+      "romaji": "ৎসুকুয়ে"
+    },
+    {
+      "bangla": "চেয়ার",
+      "japanese": "いす",
+      "romaji": "ইসু"
+    },
+    {
+      "bangla": "চকলেট",
+      "japanese": "チョコレート",
+      "romaji": "চকোরেতৌ"
+    },
+    {
+      "bangla": "কফি",
+      "japanese": "コーヒー",
+      "romaji": "কৌহি"
+    },
+    {
+      "bangla": "উপহার / স্যুভেনিয়ার",
+      "japanese": "[お]みやげ",
+      "romaji": "[ও]মিয়াগে"
+    },
+    {
+      "bangla": "ইংরেজি ভাষা",
+      "japanese": "えいご",
+      "romaji": "এইগো"
+    },
+    {
+      "bangla": "জাপানি ভাষা",
+      "japanese": "にほんご",
+      "romaji": "নিহঙ্গো"
+    },
+    {
+      "bangla": "~ ভাষা (যেমন: বাংলা হলে 'Bengali-go')",
+      "japanese": "～ご",
+      "romaji": "~ গো"
+    },
+    {
+      "bangla": "কী (What)",
+      "japanese": "なん",
+      "romaji": "নান"
+    },
+    {
+      "bangla": "তাই",
+      "japanese": "そう",
+      "romaji": "সৌ"
+    },
+    {
+      "bangla": "মানে... (কথা বলতে দ্বিধা বা চিন্তা প্রকাশে)",
+      "japanese": "あのう",
+      "romaji": "আনোউ"
+    },
+    {
+      "bangla": "অ্যাঁ? / কী! (অবাক হলে ব্যবহার করা হয়)",
+      "japanese": "えっ",
+      "romaji": "এঁ!"
+    },
+    {
+      "bangla": "এই নিন। (কাউকে কিছু দেওয়ার সময়)",
+      "japanese": "どうぞ。",
+      "romaji": "দৌজৌ।"
+    },
+    {
+      "bangla": "আপনাকে [অনেক] ধন্যবাদ।",
+      "japanese": "[どうも] ありがとう [ございます]。",
+      "romaji": "[দৌমো] আরিগাতৌ [গোজাইমাস]।"
+    },
+    {
+      "bangla": "তাই নাকি? / আচ্ছা, বুঝলাম।",
+      "japanese": "そうですか。",
+      "romaji": "সৌ দেস কা।"
+    },
+    {
+      "bangla": "না, তা নয়। / আপনি ভুল বলছেন।",
+      "japanese": "ちがいます。",
+      "romaji": "চিগাইমাস।"
+    },
+    {
+      "bangla": "ওহ! (হঠাৎ কিছু মনে পড়লে বা দেখলে)",
+      "japanese": "あ",
+      "romaji": "আ"
+    },
+    {
+      "bangla": "এখন থেকে আপনার সাহায্য ও সান্নিধ্য আশা করছি।",
+      "japanese": "これから おせわに なります。",
+      "romaji": "কোরেকারা ওসেওয়ানি নারিমাস।"
+    },
+    {
+      "bangla": "আমারও আপনার সাথে ভালো সম্পর্ক বজায় রাখার আশা রাখছি।",
+      "japanese": "こちらこそ [どうぞ] よろしく [おねがいします]。",
+      "romaji": "কোচিরাকোসো [দৌজৌ] ইয়োরোশিকু [ওনেগাইশিমাস]।"
+    }
+  ],
+  "lesson20": [
+    null,
+    {
+      "bangla": "প্রয়োজন হওয়া / দরকার হওয়া",
+      "japanese": "いります",
+      "romaji": "ইরিমাস"
+    },
+    {
+      "bangla": "পরীক্ষা করা / তদন্ত করা / খুঁজে দেখা",
+      "japanese": "しらべます",
+      "romaji": "শিরাবেমাস"
+    },
+    {
+      "bangla": "মেরামত করা / ঠিক করা",
+      "japanese": "しゅうりします",
+      "romaji": "শূবিশিমাস"
+    },
+    {
+      "bangla": "আমি (অনানুষ্ঠানিকভাবে ছেলেরা ব্যবহার করে)",
+      "japanese": "ぼく",
+      "romaji": "বোকু"
+    },
+    {
+      "bangla": "তুমি (সমকক্ষ বা ছোটদের ক্ষেত্রে ব্যবহৃত)",
+      "japanese": "きみ",
+      "romaji": "কিমি"
+    },
+    {
+      "bangla": "〜 বাবু / জনাব (ছেলেরা সমকক্ষ বা ছোটদের ক্ষেত্রে ব্যবহার করে)",
+      "japanese": "〜くん",
+      "romaji": "~ কুন"
+    },
+    {
+      "bangla": "হ্যাঁ (はい এর অনানুষ্ঠানিক রূপ)",
+      "japanese": "うん",
+      "romaji": "উন"
+    },
+    {
+      "bangla": "না (いいえ এর অনানুষ্ঠানিক রূপ)",
+      "japanese": "ううん",
+      "romaji": "ঊন"
+    },
+    {
+      "bangla": "শব্দ / ভাষা",
+      "japanese": "ことば",
+      "romaji": "কোতোবা"
+    },
+    {
+      "bangla": "কিমোনো (জাপানের ঐতিহ্যবাহী পোশাক)",
+      "japanese": "きもの",
+      "romaji": "কিমোনো"
+    },
+    {
+      "bangla": "ভিসা",
+      "japanese": "ビザ",
+      "romaji": "বিজা"
+    },
+    {
+      "bangla": "শুরু / প্রারম্ভ",
+      "japanese": "はじめ",
+      "romaji": "হাজিমে"
+    },
+    {
+      "bangla": "শেষ / সমাপ্তি",
+      "japanese": "おわり",
+      "romaji": "ওওয়ারি"
+    },
+    {
+      "bangla": "এইদিকে / এই জায়গা (こちら এর অনানুষ্ঠানিক রূপ)",
+      "japanese": "こっち",
+      "romaji": "কোচ্চি"
+    },
+    {
+      "bangla": "ওইদিকে / শ্রোতার কাছের ওই জায়গা (そちら এর অনানুষ্ঠানিক রূপ)",
+      "japanese": "そっち",
+      "romaji": "সোচ্চি"
+    },
+    {
+      "bangla": "ওই দূরবর্তী দিকে / দূরের ওই জায়গা (あちら এর অনানুষ্ঠানিক রূপ)",
+      "japanese": "あっち",
+      "romaji": "আচ্চি"
+    },
+    {
+      "bangla": "কোন দিকে / কোনটি (দুটি জিনিসের মধ্যে) (どちら এর অনানুষ্ঠানিক রূপ)",
+      "japanese": "どっち",
+      "romaji": "দোচ্চি"
+    },
+    {
+      "bangla": "সবাই মিলে / একসাথে",
+      "japanese": "みんなで",
+      "romaji": "মিন্নাদে"
+    },
+    {
+      "bangla": "〜 কিন্তু (が এর অনানুষ্ঠানিক রূপ)",
+      "japanese": "〜けど",
+      "romaji": "~ কেদো"
+    },
+    {
+      "bangla": "পেট ভরা / পেট ভরে গেছে",
+      "japanese": "おなかが いっぱいです",
+      "romaji": "ওনাকা গা ইপ্পাই দেস"
+    },
+    {
+      "bangla": "যদি আপনার ভালো লাগে / যদি চান",
+      "japanese": "よかったら",
+      "romaji": "ইয়োকাত্তারা"
+    },
+    {
+      "bangla": "বিভিন্ন / নানা রকম",
+      "japanese": "いろいろ",
+      "romaji": "ইরোইরো"
+    }
+  ],
+  "lesson21": [
+    null,
+    {
+      "bangla": "মনে করা / ভাবা",
+      "japanese": "おもいます",
+      "romaji": "ওমোইমাস"
+    },
+    {
+      "bangla": "বলা",
+      "japanese": "いいます",
+      "romaji": "ইইমাস"
+    },
+    {
+      "bangla": "জেতা / জয়ী হওয়া",
+      "japanese": "かちます",
+      "romaji": "কাচিমাস"
+    },
+    {
+      "bangla": "হেরে যাওয়া / পরাজিত হওয়া",
+      "japanese": "まけます",
+      "romaji": "মাকেমাস"
+    },
+    {
+      "bangla": "অনুষ্ঠিত হওয়া (উৎসব বা মেলা)",
+      "japanese": "あります",
+      "romaji": "আরিমাস"
+    },
+    {
+      "bangla": "উপকারে আসা / কাজে লাগা",
+      "japanese": "役に立ちます / やくにたちます",
+      "romaji": "ইয়াকু নি তাচিমাস"
+    },
+    {
+      "bangla": "নড়াচড়া করা / কাজ করা (যন্ত্রপাতির ক্ষেত্রে)",
+      "japanese": "うごきます",
+      "romaji": "উগোকিমাস"
+    },
+    {
+      "bangla": "ছেড়ে দেওয়া / অবসর নেওয়া (কোম্পানি থেকে)",
+      "japanese": "やめます",
+      "romaji": "য়ামেমাস"
+    },
+    {
+      "bangla": "সাবধানে থাকা / মনোযোগ দেওয়া",
+      "japanese": "気をつけます / きをつけます",
+      "romaji": "কি ও সুকেমাস"
+    },
+    {
+      "bangla": "উচ্চশিক্ষার জন্য বিদেশে যাওয়া",
+      "japanese": "りゅうがくします",
+      "romaji": "রিউগাকুশিমাস"
+    },
+    {
+      "bangla": "অপচয়কারী / ফালতু",
+      "japanese": "むだ",
+      "romaji": "মুদা"
+    },
+    {
+      "bangla": "অসুবিধাজনক",
+      "japanese": "ふべん",
+      "romaji": "ফুবেন"
+    },
+    {
+      "bangla": "অসাধারণ / দারুণ",
+      "japanese": "すごい",
+      "romaji": "সুগোই"
+    },
+    {
+      "bangla": "সত্যি",
+      "japanese": "ほんとう",
+      "romaji": "হোন্তৌ"
+    },
+    {
+      "bangla": "মিথ্যা",
+      "japanese": "うそ",
+      "romaji": "উসো"
+    },
+    {
+      "bangla": "গাড়ি / মোটরগাড়ি",
+      "japanese": "じどうしゃ",
+      "romaji": "জিদৌশা"
+    },
+    {
+      "bangla": "পরিবহন / ট্রাফিক",
+      "japanese": "こうつう",
+      "romaji": "কোুৎসূ"
+    },
+    {
+      "bangla": "জিনিসপত্রের দাম / বাজারদর",
+      "japanese": "ぶっか",
+      "romaji": "বুক্কা"
+    },
+    {
+      "bangla": "ঘোষণা / সম্প্রচার",
+      "japanese": "ほうそう",
+      "romaji": "হৌসৌ"
+    },
+    {
+      "bangla": "খবর / সংবাদ",
+      "japanese": "ニュース",
+      "romaji": "নিউসু"
+    },
+    {
+      "bangla": "অ্যানিমে (জাপানি অ্যানিমেশন কার্টুন)",
+      "japanese": "アニメ",
+      "romaji": "আনিমে"
+    },
+    {
+      "bangla": "ম্যাঙ্গা (জাপানি কমিক বই)",
+      "japanese": "マンガ",
+      "romaji": "মান্গা"
+    },
+    {
+      "bangla": "ডিজাইন / নকশা",
+      "japanese": "デザイン",
+      "romaji": "দেজাইন"
+    },
+    {
+      "bangla": "স্বপ্ন",
+      "japanese": "ゆめ",
+      "romaji": "য়ুমে"
+    },
+    {
+      "bangla": "জিনিয়াস / প্রতিभावান ব্যক্তি",
+      "japanese": "てんさい",
+      "romaji": "তেন্সাই"
+    },
+    {
+      "bangla": "খেলা / ম্যাচ",
+      "japanese": "しあい",
+      "romaji": "শিয়াই"
+    },
+    {
+      "bangla": "মতামত",
+      "japanese": "いけん",
+      "romaji": "ইকেন"
+    },
+    {
+      "bangla": "কথা / বক্তৃতা / গল্প",
+      "japanese": "はなし",
+      "romaji": "হানাশি"
+    },
+    {
+      "bangla": "পৃথিবী",
+      "japanese": "ちきゅう",
+      "romaji": "চিকিউ"
+    },
+    {
+      "bangla": "চাঁদ",
+      "japanese": "つき",
+      "romaji": "সুকি"
+    },
+    {
+      "bangla": "ইদানীং / সম্প্রতি",
+      "japanese": "さいきん",
+      "romaji": "সাইকিন"
+    },
+    {
+      "bangla": "সম্ভবত / হতে পারে",
+      "japanese": "たぶん",
+      "romaji": "তাবুন"
+    },
+    {
+      "bangla": "নিশ্চয়ই / অবশ্যই",
+      "japanese": "きっと",
+      "romaji": "কিত্তো"
+    },
+    {
+      "bangla": "সত্যিই / আসলেই",
+      "japanese": "ほんとうに",
+      "romaji": "হোন্তৌ নি"
+    },
+    {
+      "bangla": "তেমন একটা না (না-বোধক বাক্যে ব্যবহৃত)",
+      "japanese": "そんなに",
+      "romaji": "সোন্নানি"
+    },
+    {
+      "bangla": "〜 সম্পর্কে / 〜 বিষয়ে",
+      "japanese": "〜について",
+      "romaji": "~ নি সুইতে"
+    },
+    {
+      "bangla": "অনেক দিন পর দেখা হলো, তাই না?",
+      "japanese": "ひさしぶりですね。",
+      "romaji": "হিসাশিওবুরি দেস নে"
+    },
+    {
+      "bangla": "〜 জাতীয় কিছু পান করবেন নাকি?",
+      "japanese": "〜でも のみませんか。",
+      "romaji": "~ দেমো নোমিমাসেন কা"
+    },
+    {
+      "bangla": "অবশ্যই / নিশ্চয়ই",
+      "japanese": "もちろん",
+      "romaji": "মোচিরোন"
+    },
+    {
+      "bangla": "এবার বাড়ি ফিরতে হবে তো...",
+      "japanese": "もう かえらないと……。",
+      "romaji": "মৌ কাएरানাইতো"
+    },
+    {
+      "bangla": "আলবার্ট আইনস্টাইন",
+      "japanese": "アインシュタイン",
+      "romaji": "আইনশুতািন"
+    },
+    {
+      "bangla": "ইউরি গ্যাগারিন",
+      "japanese": "ガガーリン",
+      "romaji": "গাগারিন"
+    },
+    {
+      "bangla": "গ্যালিলিও গ্যালিলি",
+      "japanese": "ガリレオ",
+      "romaji": "গারিলিও"
+    },
+    {
+      "bangla": "মার্টিন লুথার কিং জুনিয়র (পাদ্রি কিং)",
+      "japanese": "キングぼくし",
+      "romaji": "কিন্গু বোকুশি"
+    },
+    {
+      "bangla": "বেঞ্জামিন ফ্রাঙ্কলিন",
+      "japanese": "フランクリン",
+      "romaji": "ফুরান্কুরিন"
+    },
+    {
+      "bangla": "কাগুয়াহিমে (জাপানি লোকগাথা চরিত্র)",
+      "japanese": "かぐやひめ",
+      "romaji": "কাগুয়াহিমে"
+    },
+    {
+      "bangla": "তেনজিন উৎসব (ওসাকার বিখ্যাত উৎসব)",
+      "japanese": "てんじんまつり",
+      "romaji": "তেন্জিন্মাৎসুরি"
+    },
+    {
+      "bangla": "ইয়োশিনো পর্বত",
+      "japanese": "よしのやま",
+      "romaji": "য়োশিনোয়ামা"
+    },
+    {
+      "bangla": "ক্যাঙ্গারু",
+      "japanese": "カンガルー",
+      "romaji": "কাঙ্গারূ"
+    },
+    {
+      "bangla": "ক্যাপ্টেন জেমস কুক",
+      "japanese": "キャプテン・クック",
+      "romaji": "ক্যাপুতেন কুক্কু"
+    },
+    {
+      "bangla": "ইয়োনেন (কাল্পনিক কোম্পানি)",
+      "japanese": "ヨーネン",
+      "romaji": "য়ৌনেন"
+    }
+  ],
+  "lesson22": [
+    null,
+    {
+      "bangla": "পরিধান করা / পরা (শরীরের উপরের অংশের পোশাক যেমন: শার্ট, কোট)",
+      "japanese": "きます",
+      "romaji": "কিমাস"
+    },
+    {
+      "bangla": "পরিধান করা / পরা (শরীরের নিচের অংশের পোশাক যেমন: জুতো, প্যান্ট, স্কার্ট)",
+      "japanese": "はきます",
+      "romaji": "হাকিমাস"
+    },
+    {
+      "bangla": "মাথায় পরা (টুপি বা হ্যাট)",
+      "japanese": "かぶります",
+      "romaji": "কাবুরিমাস"
+    },
+    {
+      "bangla": "চোখে পরা (চশমা)",
+      "japanese": "かけます",
+      "romaji": "কাকেমাস"
+    },
+    {
+      "bangla": "গলায় বা শরীরে বাঁধা/পরা (যেমন: টাই পরা)",
+      "japanese": "します",
+      "romaji": "শিমাস"
+    },
+    {
+      "bangla": "জন্মগ্রহণ করা / জন্ম নেওয়া",
+      "japanese": "うまれます",
+      "romaji": "উমারেমাস"
+    },
+    {
+      "bangla": "আমরা",
+      "japanese": "わたしたち",
+      "romaji": "ওয়াতাশিতাচি"
+    },
+    {
+      "bangla": "কোট",
+      "japanese": "コート",
+      "romaji": "কোতো"
+    },
+    {
+      "bangla": "সোয়েটার",
+      "japanese": "セーター",
+      "romaji": "সেতানি"
+    },
+    {
+      "bangla": "স্যুট",
+      "japanese": "スーツ",
+      "romaji": "সূৎসু"
+    },
+    {
+      "bangla": "টুপি / হ্যাট",
+      "japanese": "ぼうし",
+      "romaji": "বৌশি"
+    },
+    {
+      "bangla": "চশমা",
+      "japanese": "めがね",
+      "romaji": "মেগানে"
+    },
+    {
+      "bangla": "কেক",
+      "japanese": "ケーキ",
+      "romaji": "কেকি"
+    },
+    {
+      "bangla": "বক্স লাঞ্চ / টিফিন বক্সের খাবার",
+      "japanese": "おべんとう",
+      "romaji": "ওবেন্তৌ"
+    },
+    {
+      "bangla": "রোবট",
+      "japanese": "ロボット",
+      "romaji": "রোবোত্তো"
+    },
+    {
+      "bangla": "রসবোধ / কৌতুক (humor)",
+      "japanese": "ユーモア",
+      "romaji": "য়ূমোয়া"
+    },
+    {
+      "bangla": "সুবিধা / পরিস্থিতি (convenience)",
+      "japanese": "つごう",
+      "romaji": "ৎসুগৌ"
+    },
+    {
+      "bangla": "প্রায়ই / ঘনঘন (often)",
+      "japanese": "よく",
+      "romaji": "য়োকু"
+    },
+    {
+      "bangla": "মানে... / একটু ভেবে দেখি...",
+      "japanese": "えーと",
+      "romaji": "এ এতো"
+    },
+    {
+      "bangla": "অভিনন্দন!",
+      "japanese": "おめでとうございます",
+      "romaji": "ওমেদেতৌ গোজাইমাস"
+    },
+    {
+      "bangla": "আপনি কি [কিছু] খুঁজছেন?",
+      "japanese": "おさがしですか。",
+      "romaji": "ওসাগাশি দেস কা"
+    },
+    {
+      "bangla": "তাহলে / বেশ তো",
+      "japanese": "では",
+      "romaji": "দেওয়া"
+    },
+    {
+      "bangla": "এটি / এই যে (পোলাইট রূপ)",
+      "japanese": "こちら",
+      "romaji": "কোচিরা"
+    },
+    {
+      "bangla": "বাড়ি ভাড়া /ルーム ভাড়া",
+      "japanese": "やちん",
+      "romaji": "য়াচিন"
+    },
+    {
+      "bangla": "ডাইনিং স্পেসসহ রান্নাঘর",
+      "japanese": "ダイニングキッチン",
+      "romaji": "দাইনিংগু কিচ্চিন"
+    },
+    {
+      "bangla": "জাপানি শৈলীর ঐতিহ্যবাহী ঘর (তাতামি ম্যাট বিছানো)",
+      "japanese": "わしつ",
+      "romaji": "ওয়াশিত্সু"
+    },
+    {
+      "bangla": "জাপানি স্টাইলের দেয়াল আলমারি / ক্লোজেট",
+      "japanese": "おしいれ",
+      "romaji": "ওশিয়েইরে"
+    },
+    {
+      "bangla": "ফুতন (জাপানি স্টাইলের ঐতিহ্যবাহী গদি ও লেপ)",
+      "japanese": "ふとん",
+      "romaji": "ফুতোন"
+    },
+    {
+      "bangla": "প্যারিস",
+      "japanese": "パリ",
+      "romaji": "পারি"
+    },
+    {
+      "bangla": "চীনের মহাপ্রাচীর",
+      "japanese": "ばんりのちょうじょう",
+      "romaji": "বানরি নো চৌজৌ"
+    },
+    {
+      "bangla": "মিন্না নো আнкеতো (কাল্পনিক জরিপ)",
+      "japanese": "みんなのアンケート",
+      "romaji": "মিন্না নো আঙ্কেতো"
+    }
+  ],
+  "lesson23": [
+    null,
+    {
+      "bangla": "জিজ্ঞাসা করা",
+      "japanese": "ききます",
+      "romaji": "কিকিমাস"
+    },
+    {
+      "bangla": "ঘোরানো / টার্ন করা",
+      "japanese": "まわします",
+      "romaji": "মাওয়াশিমাস"
+    },
+    {
+      "bangla": "টানা / পুল করা",
+      "japanese": "ひきます",
+      "romaji": "হিকিমাস"
+    },
+    {
+      "bangla": "পরিবর্তন করা / বদলে ফেলা",
+      "japanese": "かえます",
+      "romaji": "কাএমাস"
+    },
+    {
+      "bangla": "স্পর্শ করা / ছোঁয়া",
+      "japanese": "さわります",
+      "romaji": "সাওয়ারিমাস"
+    },
+    {
+      "bangla": "বের হওয়া (যেমন: খুচরা টাকা বের হওয়া)",
+      "japanese": "でます",
+      "romaji": "দেমাস"
+    },
+    {
+      "bangla": "হাঁটা",
+      "japanese": "あるきます",
+      "romaji": "আরুকিমাস"
+    },
+    {
+      "bangla": "পার হওয়া (যেমন: ব্রিজ পার হওয়া)",
+      "japanese": "わたります",
+      "romaji": "ওয়াতারিমাস"
+    },
+    {
+      "bangla": "মোড় নেওয়া / ঘোরা (যেমন: ডান দিকে মোড় নেওয়া)",
+      "japanese": "まがります",
+      "romaji": "মাগারিমাস"
+    },
+    {
+      "bangla": "একাকী / নির্জন / মন খারাপ লাগা (lonely)",
+      "japanese": "さびしい",
+      "romaji": "সাবিশী"
+    },
+    {
+      "bangla": "গরম জল / গরম পানি",
+      "japanese": "おゆ",
+      "romaji": "অয়ু"
+    },
+    {
+      "bangla": "শব্দ / আওয়াজ (sound)",
+      "japanese": "おと",
+      "romaji": "অতো"
+    },
+    {
+      "bangla": "সাইজ / মাপ",
+      "japanese": "サイズ",
+      "romaji": "সাইজু"
+    },
+    {
+      "bangla": "নষ্ট হওয়া / বিকল হওয়া",
+      "japanese": "こしょう",
+      "romaji": "কোশৌ"
+    },
+    {
+      "bangla": "রাস্তা / পথ",
+      "japanese": "みち",
+      "romaji": "মিচি"
+    },
+    {
+      "bangla": "চৌরাস্তা / মোড় (crossroads)",
+      "japanese": "こうさてん",
+      "romaji": "কৌসাতেন"
+    },
+    {
+      "bangla": "ট্রাফিক সিগন্যাল / ট্রাফিক লাইট",
+      "japanese": "しんごう",
+      "romaji": "শিনগৌ"
+    },
+    {
+      "bangla": "কোণ / রাস্তার বাঁক (corner)",
+      "japanese": "かど",
+      "romaji": "কাদো"
+    },
+    {
+      "bangla": "সেতু / ব্রিজ",
+      "japanese": "はし",
+      "romaji": "হাশি"
+    },
+    {
+      "bangla": "পার্কিং লট / গাড়ি রাখার জায়গা",
+      "japanese": "ちゅうしゃじょう",
+      "romaji": "চূশাজৌ"
+    },
+    {
+      "bangla": "দালান / ভবন / বিল্ডিং",
+      "japanese": "たてもの",
+      "romaji": "তাতেমোনো"
+    },
+    {
+      "bangla": "অনেকবার / বহুবার",
+      "japanese": "なんかいも",
+      "romaji": "নান্কাইমো"
+    },
+    {
+      "bangla": "〜তম (ক্রম বোঝাতে সংখ্যার শেষে বসে)",
+      "japanese": "〜め",
+      "romaji": "~ মে"
+    },
+    {
+      "bangla": "প্রিন্স শোতোকু (জাপানের একজন ঐতিহাসিক রাজপুত্র)",
+      "japanese": "しょうとくたいし",
+      "romaji": "শৌতোকু তাইশি"
+    },
+    {
+      "bangla": "হোরিউ-জি মন্দির (বিখ্যাত প্রাচীন বৌদ্ধ মন্দির)",
+      "japanese": "ほうりゅうじ",
+      "romaji": "হৌরিউজি"
+    },
+    {
+      "bangla": "গেনকি-চা (কাল্পনিক চায়ের নাম)",
+      "japanese": "げんきちゃ",
+      "romaji": "গেনকিচা"
+    },
+    {
+      "bangla": "হোন্ডা স্টেশন (কাল্পনিক রেলওয়ে স্টেশন)",
+      "japanese": "ほんだえき",
+      "romaji": "হোন্দা একি"
+    },
+    {
+      "bangla": "তোশোকান-মায়ে (কাল্পনিক বাস স্টপ)",
+      "japanese": "としょかんまえ",
+      "romaji": "তোশোকান মাএ"
+    }
+  ],
+  "lesson24": [
+    null,
+    {
+      "bangla": "দেওয়া (আমাকে বা আমার পরিবারের কাউকে)",
+      "japanese": "くれます",
+      "romaji": "কুরেমাস"
+    },
+    {
+      "bangla": "মেরামত করা / সংশোধন করা / ঠিক করা",
+      "japanese": "なおします",
+      "romaji": "নাওশিমাস"
+    },
+    {
+      "bangla": "কাউকে সাথে নিয়ে যাওয়া / নিয়ে যাওয়া",
+      "japanese": "つれて いきます",
+      "romaji": "ৎসুরেতে ইকিমাস"
+    },
+    {
+      "bangla": "কাউকে সাথে নিয়ে আসা / নিয়ে আসা",
+      "japanese": "つれて きます",
+      "romaji": "ৎসুরেতে কিমাস"
+    },
+    {
+      "bangla": "এগিয়ে দেওয়া / পৌঁছে দেওয়া (কাউকে)",
+      "japanese": "おくります",
+      "romaji": "ওকুরিমাস"
+    },
+    {
+      "bangla": "পরিচয় করিয়ে দেওয়া / আলাপ করানো",
+      "japanese": "しょうかいします",
+      "romaji": "শৌকাইশিমাস"
+    },
+    {
+      "bangla": "পথ দেখানো / ঘুরিয়ে দেখানো",
+      "japanese": "あんないします",
+      "romaji": "আন্নাইশিমাস"
+    },
+    {
+      "bangla": "ব্যাখ্যা করা / বুঝিয়ে বলা",
+      "japanese": "せつめいします",
+      "romaji": "সেৎসুমেইশিমাস"
+    },
+    {
+      "bangla": "দাদা / নানা / বৃদ্ধ লোক",
+      "japanese": "おじいさん / おじいちゃん",
+      "romaji": "ওজীসান / ওজীচান"
+    },
+    {
+      "bangla": "দাদি / নানি / বৃদ্ধা মহিলা",
+      "japanese": "おばあさん / おばあちゃん",
+      "romaji": "ওবাসান / ওবাচান"
+    },
+    {
+      "bangla": "প্রস্তুতি",
+      "japanese": "じゅんび",
+      "romaji": "জুম্বি"
+    },
+    {
+      "bangla": "বাসা বদল / নতুন জায়গায় চলে যাওয়া",
+      "japanese": "ひっこし",
+      "romaji": "হিক্কোশি"
+    },
+    {
+      "bangla": "মিষ্টি / স্ন্যাক্স / হালকা খাবার",
+      "japanese": "おかし",
+      "romaji": "ওকাশি"
+    },
+    {
+      "bangla": "হোমস্টে (বিদেশে স্থানীয় পরিবারের সাথে থাকা)",
+      "japanese": "ホームステイ",
+      "romaji": "হোমুসুতেই"
+    },
+    {
+      "bangla": "সব / সম্পূর্ণ",
+      "japanese": "ぜんぶ",
+      "romaji": "জেম্বু"
+    },
+    {
+      "bangla": "নিজে নিজে / নিজের দ্বারা",
+      "japanese": "じぶんで",
+      "romaji": "জিবুন্দে"
+    },
+    {
+      "bangla": "এ ছাড়া / পাশাপাশি (besides)",
+      "japanese": "ほかに",
+      "romaji": "হোকানি"
+    },
+    {
+      "bangla": "মা দিবস (Mother's Day)",
+      "japanese": "ははのひ",
+      "romaji": "হাহানোহি"
+    }
+  ],
+  "lesson25": [
+    null,
+    {
+      "bangla": "চিন্তা করা / বিবেচনা করা",
+      "japanese": "かんがえます",
+      "romaji": "কান্গাএমাস"
+    },
+    {
+      "bangla": "পৌঁছানো / আগমন করা",
+      "japanese": "つきます",
+      "romaji": "ৎসুকিমাস"
+    },
+    {
+      "bangla": "বয়স হওয়া / বুড়ো হওয়া",
+      "japanese": "とります",
+      "romaji": "তোরিমাস"
+    },
+    {
+      "bangla": "পর্যাপ্ত হওয়া / যথেষ্ট হওয়া",
+      "japanese": "たります",
+      "romaji": "তারিমাস"
+    },
+    {
+      "bangla": "গ্রাম / মফস্বল / নিজ গ্রাম",
+      "japanese": "いなか",
+      "romaji": "ইনাকা"
+    },
+    {
+      "bangla": "সুযোগ / চান্স",
+      "japanese": "チャンス",
+      "romaji": "চান্সু"
+    },
+    {
+      "bangla": "একশ মিলিয়ন / দশ কোটি",
+      "japanese": "おく",
+      "romaji": "ওকু"
+    },
+    {
+      "bangla": "যদি (বাক্যের শুরুতে বসে)",
+      "japanese": "もし",
+      "romaji": "মোশি"
+    },
+    {
+      "bangla": "অর্থ / মানে (meaning)",
+      "japanese": "いみ",
+      "romaji": "ইমি"
+    },
+    {
+      "bangla": "হ্যালো (ফোনে কথা বলার সময় ব্যবহৃত)",
+      "japanese": "もしもし",
+      "romaji": "মোশিমোশি"
+    },
+    {
+      "bangla": "বদলি হওয়া / অন্য অফিসে ট্রান্সফার হওয়া",
+      "japanese": "てんきん",
+      "romaji": "তেন্কিন"
+    },
+    {
+      "bangla": "বিষয় / ব্যাপার",
+      "japanese": "こと",
+      "romaji": "কোতো"
+    },
+    {
+      "bangla": "অবসর সময় / ফ্রি টাইম",
+      "japanese": "ひま",
+      "romaji": "হিমা"
+    },
+    {
+      "bangla": "আমার জন্য আপনি যা যা করেছেন, তার সবকিছুর জন্য আপনাকে ধন্যবাদ।",
+      "japanese": "いろいろ おせわに なりました。",
+      "romaji": "ইরোইরো ওসেওয়ানি নারিমাশ্‌তা"
+    },
+    {
+      "bangla": "নিজের সেরাটা দেওয়া / সর্বোচ্চ চেষ্টা করা",
+      "japanese": "がんばります",
+      "romaji": "গাম্বারিমাস"
+    },
+    {
+      "bangla": "দয়া করে ভালো থাকবেন। (দীর্ঘদিনের বিদায়ের সময়)",
+      "japanese": "どうぞ おげんきで。",
+      "romaji": "দৌজেরৌ ওগেন্কিদে"
+    },
+    {
+      "bangla": "ভিয়েতনামী",
+      "japanese": "ベトナム",
+      "romaji": "বেতোনামু"
+    }
+  ],
+  "lesson3": [
+    null,
+    {
+      "bangla": "এখানে / এই জায়গা",
+      "japanese": "ここ",
+      "romaji": "কোকো"
+    },
+    {
+      "bangla": "오খানে / ওই জায়গা (শ্রোতার কাছে)",
+      "japanese": "そこ",
+      "romaji": "সোকো"
+    },
+    {
+      "bangla": "ওইখানে / ওই দূরবর্তী জায়গা",
+      "japanese": "あそこ",
+      "romaji": "আসোকো"
+    },
+    {
+      "bangla": "কোথায় / কোন জায়গা",
+      "japanese": "どこ",
+      "romaji": "দোকো"
+    },
+    {
+      "bangla": "এদিকে / এই দিক (বিনম্র)",
+      "japanese": "こちら",
+      "romaji": "কোচিরা"
+    },
+    {
+      "bangla": "ওদিকে / ওই দিক (বিনম্র)",
+      "japanese": "そちら",
+      "romaji": "সোচিরা"
+    },
+    {
+      "bangla": "ওইদিকে (অনেক দূরে) (বিনম্র)",
+      "japanese": "あちら",
+      "romaji": "আচিরা"
+    },
+    {
+      "bangla": "কোন দিকে / কোথায় (বিনম্র)",
+      "japanese": "どちら",
+      "romaji": "দোচিরা"
+    },
+    {
+      "bangla": "ক্লাসরুম / শ্রেণীকক্ষ",
+      "japanese": "きょうしつ",
+      "romaji": "ক্যৌশিৎসু"
+    },
+    {
+      "bangla": "ডাইনিং হল / ক্যান্টিন",
+      "japanese": "しょくどう",
+      "romaji": "শোকুদৌ"
+    },
+    {
+      "bangla": "অফিস",
+      "japanese": "じむしょ",
+      "romaji": "জিমুশো"
+    },
+    {
+      "bangla": "কনফারেন্স রুম / মিটিং রুম",
+      "japanese": "かいぎしつ",
+      "romaji": "কাইগিশিৎসু"
+    },
+    {
+      "bangla": "রিসেপশনデスク",
+      "japanese": "うけつけ",
+      "romaji": "উকেৎসুকে"
+    },
+    {
+      "bangla": "লবি",
+      "japanese": "ロビー",
+      "romaji": "রোবী"
+    },
+    {
+      "bangla": "রুম / ঘর",
+      "japanese": "へや",
+      "romaji": "হেয়া"
+    },
+    {
+      "bangla": "টয়লেট / ওয়াশরুম",
+      "japanese": "トイレ (おてあらい)",
+      "romaji": "তৈরে (ওতেআরাই)"
+    },
+    {
+      "bangla": "সিঁড়ি",
+      "japanese": "かいだん",
+      "romaji": "কাইদান"
+    },
+    {
+      "bangla": "লিফট / এলিভেটর",
+      "japanese": "エレベーター",
+      "romaji": "এরেবেতৌ"
+    },
+    {
+      "bangla": "এস্কেলেটর",
+      "japanese": "エスカレーター",
+      "romaji": "এসুকারেতৌ"
+    },
+    {
+      "bangla": "ভেন্ডিং মেশিন",
+      "japanese": "じどうはんばいき",
+      "romaji": "জিদৌহাম্বাইকি"
+    },
+    {
+      "bangla": "টেলিফোন / ফোন কল",
+      "japanese": "でんわ",
+      "romaji": "দেঁওয়া"
+    },
+    {
+      "bangla": "দেশ",
+      "japanese": "[お]くに",
+      "romaji": "[ও]কুনি"
+    },
+    {
+      "bangla": "কোম্পানি / প্রতিষ্ঠান",
+      "japanese": "かいしゃ",
+      "romaji": "কাইশা"
+    },
+    {
+      "bangla": "ঘর / বাড়ি",
+      "japanese": "うち",
+      "romaji": "উচি"
+    },
+    {
+      "bangla": "জুতো",
+      "japanese": "くつ",
+      "romaji": "কুৎসু"
+    },
+    {
+      "bangla": "টাই / নেকটাই",
+      "japanese": "ネクタイ",
+      "romaji": "নেকুতাই"
+    },
+    {
+      "bangla": "ওয়াইন (মদ)",
+      "japanese": "ワイン",
+      "romaji": "ওয়াইন"
+    },
+    {
+      "bangla": "বিক্রয় কেন্দ্র / ডিপার্টমেন্ট",
+      "japanese": "うりば",
+      "romaji": "উরিবা"
+    },
+    {
+      "bangla": "ভূগর্ভস্থ / বেজমেন্ট",
+      "japanese": "ちか",
+      "romaji": "চিকা"
+    },
+    {
+      "bangla": "-ম তলা (ফ্লোর গণনার একক)",
+      "japanese": "－がい (－かい)",
+      "romaji": "-গাই (-কাই)"
+    },
+    {
+      "bangla": "কত তলা?",
+      "japanese": "なんがい",
+      "romaji": "নাঙ্গাই"
+    },
+    {
+      "bangla": "ইয়েন (জাপানি মুদ্রা)",
+      "japanese": "－えん",
+      "romaji": "-এন"
+    },
+    {
+      "bangla": "কত দাম?",
+      "japanese": "いくら",
+      "romaji": "ইকুরা"
+    },
+    {
+      "bangla": "একশো (১০০)",
+      "japanese": "ひゃく",
+      "romaji": "হ্যাঁকু"
+    },
+    {
+      "bangla": "এক হাজার (১০০০)",
+      "japanese": "せん",
+      "romaji": "সেন"
+    },
+    {
+      "bangla": "দশ হাজার (১০০০০)",
+      "japanese": "まん",
+      "romaji": "মান"
+    },
+    {
+      "bangla": "মাফ করবেন / এক্সকিউজ মি",
+      "japanese": "すみません",
+      "romaji": "সুমিমাসেন"
+    },
+    {
+      "bangla": "ধন্যবাদ",
+      "japanese": "どうも",
+      "romaji": "দৌমো"
+    },
+    {
+      "bangla": "স্বাগতম (দোকানে প্রবেশের সময়)",
+      "japanese": "いらっしゃいませ",
+      "romaji": "ইরাশ্‌শাইমাসে"
+    },
+    {
+      "bangla": "[ওটি] দয়া করে দেখান",
+      "japanese": "[～を] みせて ください",
+      "romaji": "[~ ও] মিসেতে কুদাশাই"
+    },
+    {
+      "bangla": "তাহলে... / আচ্ছা তবে...",
+      "japanese": "じゃ",
+      "romaji": "জা"
+    },
+    {
+      "bangla": "[ওটি] দয়া করে আমাকে দিন",
+      "japanese": "[～を] ください",
+      "romaji": "[~ ও] কুদাশাই"
+    },
+    {
+      "bangla": "ইতালি",
+      "japanese": "イタリア",
+      "romaji": "ইতারিয়া"
+    },
+    {
+      "bangla": "সুইজারল্যান্ড",
+      "japanese": "スイス",
+      "romaji": "সুইসু"
+    },
+    {
+      "bangla": "ফ্রান্স",
+      "japanese": "フランス",
+      "romaji": "ফুরান্সু"
+    },
+    {
+      "bangla": "জাকার্তা",
+      "japanese": "ジャカルタ",
+      "romaji": "জাকারুতা"
+    },
+    {
+      "bangla": "ব্যাংকক",
+      "japanese": "バンコク",
+      "romaji": "বাঙ্কোকু"
+    },
+    {
+      "bangla": "বার্লিন",
+      "japanese": "ベルリン",
+      "romaji": "বেরুরিন"
+    },
+    {
+      "bangla": "শিন-ওসাকা (ওসাকার একটি স্টেশনের নাম)",
+      "japanese": "しんおおさか",
+      "romaji": "শিন-ওওসাকা"
+    }
+  ],
+  "lesson4": [
+    null,
+    {
+      "bangla": "ঘুম থেকে ওঠা",
+      "japanese": "おきます",
+      "romaji": "ওকিমাস"
+    },
+    {
+      "bangla": "ঘুমানো / শুতে যাওয়া",
+      "japanese": "ねます",
+      "romaji": "নেমাস"
+    },
+    {
+      "bangla": "কাজ করা",
+      "japanese": "はたらきます",
+      "romaji": "হাতারাকিমাস"
+    },
+    {
+      "bangla": "বিশ্রাম নেওয়া / ছুটি নেওয়া",
+      "japanese": "やすみます",
+      "romaji": "ইয়াসুমিমাস"
+    },
+    {
+      "bangla": "पढ़াশোনা করা",
+      "japanese": "べんきょうします",
+      "romaji": "বেঙ্কিউশিমাস"
+    },
+    {
+      "bangla": "শেষ হওয়া",
+      "japanese": "おわります",
+      "romaji": "ওওয়ারিমাস"
+    },
+    {
+      "bangla": "ডিপার্টমেন্টাল স্টোর",
+      "japanese": "デパート",
+      "romaji": "দেপাতো"
+    },
+    {
+      "bangla": "ব্যাংক",
+      "japanese": "ぎんこう",
+      "romaji": "গিংকৌ"
+    },
+    {
+      "bangla": "ডাকঘর (Post office)",
+      "japanese": "ゆうびんきょく",
+      "romaji": "ইউবিঙ্কিওকু"
+    },
+    {
+      "bangla": "লাইব্রেরি / গ্রন্থাগার",
+      "japanese": "としょかん",
+      "romaji": "তোশোকান"
+    },
+    {
+      "bangla": "আর্ট মিউজিয়াম",
+      "japanese": "びじゅつかん",
+      "romaji": "বিজুুৎসুকান"
+    },
+    {
+      "bangla": "এখন",
+      "japanese": "いま",
+      "romaji": "ইমা"
+    },
+    {
+      "bangla": "—টা (ঘণ্টা বাজলে)",
+      "japanese": "ーじ",
+      "romaji": "— জি"
+    },
+    {
+      "bangla": "—মিনিট",
+      "japanese": "ーふん / ーぷん",
+      "romaji": "— ফুন / — পুন"
+    },
+    {
+      "bangla": "অর্ধেক / সাড়ে (যেমন: সাড়ে ৪টা)",
+      "japanese": "はん",
+      "romaji": "হান"
+    },
+    {
+      "bangla": "কয়টা? (সময়)",
+      "japanese": "なんじ",
+      "romaji": "নানজি"
+    },
+    {
+      "bangla": "কত মিনিট?",
+      "japanese": "なんぷん",
+      "romaji": "নাম্পুন"
+    },
+    {
+      "bangla": "সকাল (AM)",
+      "japanese": "ごぜん",
+      "romaji": "গোজেল"
+    },
+    {
+      "bangla": "দুপুর/বিকাল (PM)",
+      "japanese": "ごご",
+      "romaji": "গোগো"
+    },
+    {
+      "bangla": "সকাল",
+      "japanese": "あさ",
+      "romaji": "আসা"
+    },
+    {
+      "bangla": "দুপুর / দিনের বেলা",
+      "japanese": "ひる",
+      "romaji": "হিরু"
+    },
+    {
+      "bangla": "রাত / সন্ধ্যা",
+      "japanese": "ばん (よる)",
+      "romaji": "বান (ইওরু)"
+    },
+    {
+      "bangla": "গত পরশু",
+      "japanese": "おととい",
+      "romaji": "ওতোতোই"
+    },
+    {
+      "bangla": "গতকাল",
+      "japanese": "きのう",
+      "romaji": "কিনৌ"
+    },
+    {
+      "bangla": "আজ",
+      "japanese": "きょう",
+      "romaji": "কিওউ"
+    },
+    {
+      "bangla": "আগামীকাল",
+      "japanese": "あした",
+      "romaji": "আশিতা"
+    },
+    {
+      "bangla": "আগামী পরশু",
+      "japanese": "あさって",
+      "romaji": "আসাত্তে"
+    },
+    {
+      "bangla": "আজ সকাল",
+      "japanese": "けさ",
+      "romaji": "কেসা"
+    },
+    {
+      "bangla": "আজ রাত / আজ সন্ধ্যা",
+      "japanese": "こんばん",
+      "romaji": "কোম্বান"
+    },
+    {
+      "bangla": "ছুটি / বিশ্রাম",
+      "japanese": "やすみ",
+      "romaji": "ইয়াসুমি"
+    },
+    {
+      "bangla": "দুপুরের বিরতি (Lunch break)",
+      "japanese": "ひるやすみ",
+      "romaji": "হিরুইয়াসুমি"
+    },
+    {
+      "bangla": "পরীক্ষা",
+      "japanese": "しけん",
+      "romaji": "শিকেন"
+    },
+    {
+      "bangla": "মিটিং / সভা",
+      "japanese": "かいぎ",
+      "romaji": "কাইগি"
+    },
+    {
+      "bangla": "সিনেমা / চলচ্চিত্র",
+      "japanese": "えいが",
+      "romaji": "এইগা"
+    },
+    {
+      "bangla": "প্রতিদিন সকাল",
+      "japanese": "まいあさ",
+      "romaji": "মাইআসা"
+    },
+    {
+      "bangla": "প্রতিদিন রাত",
+      "japanese": "まいばん",
+      "romaji": "মাইবান"
+    },
+    {
+      "bangla": "প্রতিদিন",
+      "japanese": "まいにち",
+      "romaji": "মাইনিচি"
+    },
+    {
+      "bangla": "সোমবার",
+      "japanese": "げつようび",
+      "romaji": "গেৎসুইয়ৌবি"
+    },
+    {
+      "bangla": "মঙ্গলবার",
+      "japanese": "かようび",
+      "romaji": "কায়ৌবি"
+    },
+    {
+      "bangla": "বুধবার",
+      "japanese": "すいようび",
+      "romaji": "সুইইয়ৌবি"
+    },
+    {
+      "bangla": "বৃহস্পতিবার",
+      "japanese": "もくようび",
+      "romaji": "মোকুইয়ৌবি"
+    },
+    {
+      "bangla": "শুক্রবার",
+      "japanese": "きんようび",
+      "romaji": "কিনইয়ৌবি"
+    },
+    {
+      "bangla": "শনিবার",
+      "japanese": "どようび",
+      "romaji": "দয়ৌবি"
+    },
+    {
+      "bangla": "রবিবার",
+      "japanese": "にちようび",
+      "romaji": "নিচিইয়ৌবি"
+    },
+    {
+      "bangla": "কি বার?",
+      "japanese": "なんようび",
+      "romaji": "নানিয়ৌবি"
+    },
+    {
+      "bangla": "—থেকে",
+      "japanese": "〜から",
+      "romaji": "~ কারা"
+    },
+    {
+      "bangla": "—পর্যন্ত",
+      "japanese": "〜まで",
+      "romaji": "~ মাদে"
+    },
+    {
+      "bangla": "এবং (দুটি বিশেষ্য যুক্ত করতে)",
+      "japanese": "〜と",
+      "romaji": "~ তো"
+    },
+    {
+      "bangla": "এটা তো খুব কঠিন! (सहমর্মিতা বুঝাতে)",
+      "japanese": "たいへんですね",
+      "romaji": "তাইহেন দেস নে"
+    },
+    {
+      "bangla": "নম্বর",
+      "japanese": "ばんごう",
+      "romaji": "বাঙ্গৌ"
+    },
+    {
+      "bangla": "কত নম্বর?",
+      "japanese": "なんばん",
+      "romaji": "নাম্বান"
+    },
+    {
+      "bangla": "আপনার জায়গা / আপনার ওই দিকটা",
+      "japanese": "そちら",
+      "romaji": "সোচিরা"
+    },
+    {
+      "bangla": "নিউ ইয়র্ক",
+      "japanese": "ニューヨーク",
+      "romaji": "নিউইয়োকু"
+    },
+    {
+      "bangla": "বেইজিং",
+      "japanese": "ペキン",
+      "romaji": "পেকিন"
+    },
+    {
+      "bangla": "লস অ্যাঞ্জেলেস",
+      "japanese": "ロサンゼルス",
+      "romaji": "রোসানজেরুসু"
+    },
+    {
+      "bangla": "লন্ডন",
+      "japanese": "ロンドン",
+      "romaji": "রোন্দন"
+    },
+    {
+      "bangla": "আসুকা (একটি কাল্পনিক রেস্তোরাঁ)",
+      "japanese": "あすか",
+      "romaji": "আসুকা"
+    },
+    {
+      "bangla": "অ্যাপল ব্যাংক (কাল্পনিক)",
+      "japanese": "アップルぎんこう",
+      "romaji": "আপ্পুরু গিংকৌ"
+    },
+    {
+      "bangla": "মিদোরি লাইব্রেরি (কাল্পনিক)",
+      "japanese": "みどりとしょかん",
+      "romaji": "মিদোরি তোশোকান"
+    }
+  ],
+  "lesson5": [
+    null,
+    {
+      "bangla": "যাওয়া",
+      "japanese": "いきます",
+      "romaji": "ইকিমাস"
+    },
+    {
+      "bangla": "আসা",
+      "japanese": "きます",
+      "romaji": "কিমাস"
+    },
+    {
+      "bangla": "ফিরে আসা / বাড়িতে ফেরা",
+      "japanese": "かえります",
+      "romaji": "কাএরিমাস"
+    },
+    {
+      "bangla": "স্কুল / বিদ্যালয়",
+      "japanese": "がっこう",
+      "romaji": "গাক্‌কৌ"
+    },
+    {
+      "bangla": "সুপার মার্কেট",
+      "japanese": "スーパー",
+      "romaji": "সুপা"
+    },
+    {
+      "bangla": "স্টেশন",
+      "japanese": "えき",
+      "romaji": "একি"
+    },
+    {
+      "bangla": "উড়োজাহাজ / বিমান",
+      "japanese": "ひこうき",
+      "romaji": "হিকৌকি"
+    },
+    {
+      "bangla": "জাহাজ",
+      "japanese": "ふね",
+      "romaji": "ফুনে"
+    },
+    {
+      "bangla": "বৈদ্যুতিক ট্রেন",
+      "japanese": "でんしゃ",
+      "romaji": "দেন্‌শা"
+    },
+    {
+      "bangla": "পাতাল রেল",
+      "japanese": "ちかてつ",
+      "romaji": "চিকাতেৎসু"
+    },
+    {
+      "bangla": "বুলেট ট্রেন",
+      "japanese": "しんかんせん",
+      "romaji": "শিনকানসেন"
+    },
+    {
+      "bangla": "বাস",
+      "japanese": "バス",
+      "romaji": "বাসু"
+    },
+    {
+      "bangla": "ট্যাক্সি",
+      "japanese": "タクシー",
+      "romaji": "তাকুশী"
+    },
+    {
+      "bangla": "সাইকেল",
+      "japanese": "じてんしゃ",
+      "romaji": "জিতেন্‌শা"
+    },
+    {
+      "bangla": "পায়ে হেঁটে",
+      "japanese": "あるいて",
+      "romaji": "আরুইতে"
+    },
+    {
+      "bangla": "মানুষ / ব্যক্তি",
+      "japanese": "ひと",
+      "romaji": "হিতো"
+    },
+    {
+      "bangla": "বন্ধু",
+      "japanese": "ともだち",
+      "romaji": "তোমোদাচি"
+    },
+    {
+      "bangla": "সে / বয়ফ্রেন্ড",
+      "japanese": "かれ",
+      "romaji": "কারে"
+    },
+    {
+      "bangla": "সে / গার্লফ্রেন্ড",
+      "japanese": "かのじょ",
+      "romaji": "কানোজো"
+    },
+    {
+      "bangla": "পরিবার",
+      "japanese": "かぞく",
+      "romaji": "কাজোকু"
+    },
+    {
+      "bangla": "একা / একাকী",
+      "japanese": "ひとりで",
+      "romaji": "হিতোরিদে"
+    },
+    {
+      "bangla": "গত সপ্তাহ",
+      "japanese": "せんしゅう",
+      "romaji": "সেন্‌শূ"
+    },
+    {
+      "bangla": "এই সপ্তাহ",
+      "japanese": "こんしゅう",
+      "romaji": "কোন্‌শূ"
+    },
+    {
+      "bangla": "আগামী সপ্তাহ",
+      "japanese": "らいしゅう",
+      "romaji": "রাইশূ"
+    },
+    {
+      "bangla": "গত মাস",
+      "japanese": "せんげつ",
+      "romaji": "সেন্‌গেৎসু"
+    },
+    {
+      "bangla": "এই মাস",
+      "japanese": "こんげつ",
+      "romaji": "কোন্‌গেৎসু"
+    },
+    {
+      "bangla": "আগামী মাস",
+      "japanese": "らいげつ",
+      "romaji": "রাইগেৎসু"
+    },
+    {
+      "bangla": "গত বছর",
+      "japanese": "きょねん",
+      "romaji": "কিওনেন"
+    },
+    {
+      "bangla": "এই বছর",
+      "japanese": "ことし",
+      "romaji": "কোতোশি"
+    },
+    {
+      "bangla": "আগামী বছর",
+      "japanese": "らいねん",
+      "romaji": "রাইনেন"
+    },
+    {
+      "bangla": "－ বছর",
+      "japanese": "－ねん",
+      "romaji": "— নেন"
+    },
+    {
+      "bangla": "কোন বছর / কত বছর",
+      "japanese": "なんねん",
+      "romaji": "নান্‌নেন"
+    },
+    {
+      "bangla": "－ মাস (নামের ক্ষেত্রে)",
+      "japanese": "－がつ",
+      "romaji": "— গাৎসু"
+    },
+    {
+      "bangla": "কোন মাস",
+      "japanese": "なんがつ",
+      "romaji": "নান্‌গাৎসু"
+    },
+    {
+      "bangla": "১ তারিখ",
+      "japanese": "ついたち",
+      "romaji": "ৎসুইতাচি"
+    },
+    {
+      "bangla": "২ তারিখ / দুই দিন",
+      "japanese": "ふつか",
+      "romaji": "ফুৎসুকা"
+    },
+    {
+      "bangla": "৩ তারিখ / তিন দিন",
+      "japanese": "みっか",
+      "romaji": "মিক্‌কা"
+    },
+    {
+      "bangla": "৪ তারিখ / চার দিন",
+      "japanese": "よっか",
+      "romaji": "ইওক্‌কা"
+    },
+    {
+      "bangla": "৫ তারিখ / পাঁচ দিন",
+      "japanese": "いつか",
+      "romaji": "ইৎসুকা"
+    },
+    {
+      "bangla": "৬ তারিখ / ৬ দিন",
+      "japanese": "むいか",
+      "romaji": "মুইকা"
+    },
+    {
+      "bangla": "৭ তারিখ / সাত দিন",
+      "japanese": "なのか",
+      "romaji": "নানোকা"
+    },
+    {
+      "bangla": "৮ তারিখ / আট দিন",
+      "japanese": "ようか",
+      "romaji": "ইয়ৌকা"
+    },
+    {
+      "bangla": "৯ তারিখ / নয় দিন",
+      "japanese": "ここのか",
+      "romaji": "কোকোনোকা"
+    },
+    {
+      "bangla": "১০ তারিখ / দশ দিন",
+      "japanese": "とおか",
+      "romaji": "তৌকা"
+    },
+    {
+      "bangla": "১৪ তারিখ",
+      "japanese": "じゅうよっか",
+      "romaji": "জূইওক্‌কা"
+    },
+    {
+      "bangla": "২০ তারিখ",
+      "japanese": "はつか",
+      "romaji": "হাৎসুকা"
+    },
+    {
+      "bangla": "২৪ তারিখ",
+      "japanese": "にじゅうよっか",
+      "romaji": "নিজূইওক্‌কা"
+    },
+    {
+      "bangla": "－ তারিখ / － দিন",
+      "japanese": "－にち",
+      "romaji": "— নিচি"
+    },
+    {
+      "bangla": "কত তারিখ / কত দিন",
+      "japanese": "なんにち",
+      "romaji": "নান্‌নিচি"
+    },
+    {
+      "bangla": "কখন",
+      "japanese": "いつ",
+      "romaji": "ইৎসু"
+    },
+    {
+      "bangla": "জন্মদিন",
+      "japanese": "たんじょうび",
+      "romaji": "তান্‌জৌবি"
+    },
+    {
+      "bangla": "তাই তো / ঠিক বলেছেন",
+      "japanese": "そうですね",
+      "romaji": "সৌ দেস নে"
+    },
+    {
+      "bangla": "আপনাকে অনেক ধন্যবাদ",
+      "japanese": "ありがとう ございました",
+      "romaji": "আরিগাতৌ গোজাইমাশ্‌তা"
+    },
+    {
+      "bangla": "আপনাকে স্বাগতম / ঠিক আছে",
+      "japanese": "どう いたしまして",
+      "romaji": "দৌ ইতাশিমাশ্‌তে"
+    },
+    {
+      "bangla": "－ নম্বর প্ল্যাটফর্ম",
+      "japanese": "－ばんせん",
+      "romaji": "— বান্‌সেন"
+    },
+    {
+      "bangla": "পরবর্তী / পরের",
+      "japanese": "つぎの",
+      "romaji": "ৎসুগি নো"
+    },
+    {
+      "bangla": "লোকাল ট্রেন (সাধারণ)",
+      "japanese": "ふつう",
+      "romaji": "ফুৎসূ"
+    },
+    {
+      "bangla": "র‍্যাপিড / দ্রুতগামী ট্রেন",
+      "japanese": "きゅうこう",
+      "romaji": "কিঊকৌ"
+    },
+    {
+      "bangla": "এক্সপ্রেস ট্রেন",
+      "japanese": "とっきゅう",
+      "romaji": "তোক্‌কিঊ"
+    },
+    {
+      "bangla": "ওসাকার কাছের একটি শহরের নাম",
+      "japanese": "こうしえん",
+      "romaji": "কৌশিয়েন"
+    },
+    {
+      "bangla": "ওসাকা দুর্গ (বিখ্যাত দুর্গ)",
+      "japanese": "おおさかじょう",
+      "romaji": "ওওসাকাজৌ"
+    }
+  ],
+  "lesson6": [
+    null,
+    {
+      "bangla": "খাওয়া",
+      "japanese": "たべます",
+      "romaji": "তাবেমাস"
+    },
+    {
+      "bangla": "পান করা",
+      "japanese": "のみます",
+      "romaji": "নমিমাস"
+    },
+    {
+      "bangla": "ধূমপান করা",
+      "japanese": "すいます",
+      "romaji": "সুইমাস"
+    },
+    {
+      "bangla": "দেখা",
+      "japanese": "みます",
+      "romaji": "মিমাস"
+    },
+    {
+      "bangla": "শোনা",
+      "japanese": "ききます",
+      "romaji": "কিকিমাস"
+    },
+    {
+      "bangla": "পড়া",
+      "japanese": "よみます",
+      "romaji": "ইমিমাস"
+    },
+    {
+      "bangla": "লেখা",
+      "japanese": "かきます",
+      "romaji": "কাকিমাস"
+    },
+    {
+      "bangla": "কেনা",
+      "japanese": "かいます",
+      "romaji": "কাইমাস"
+    },
+    {
+      "bangla": "তোলা (ছবি তোলা)",
+      "japanese": "とります",
+      "romaji": "তোরিমাস"
+    },
+    {
+      "bangla": "করা",
+      "japanese": "します",
+      "romaji": "শিমাস"
+    },
+    {
+      "bangla": "দেখা করা / সাক্ষাৎ করা",
+      "japanese": "あいます",
+      "romaji": "আইমাস"
+    },
+    {
+      "bangla": "ভাত / খাবার",
+      "japanese": "ごはん",
+      "romaji": "গোহান"
+    },
+    {
+      "bangla": "সকালের খাবার",
+      "japanese": "あさごはん",
+      "romaji": "আসাগোহান"
+    },
+    {
+      "bangla": "দুপুরের খাবার",
+      "japanese": "ひるごはん",
+      "romaji": "হিরুগোহান"
+    },
+    {
+      "bangla": "রাতের খাবার",
+      "japanese": "ばんごはん",
+      "romaji": "বাঙ্গোহান"
+    },
+    {
+      "bangla": "রুটি",
+      "japanese": "パン",
+      "romaji": "পান"
+    },
+    {
+      "bangla": "ডিম",
+      "japanese": "たまご",
+      "romaji": "তামাগো"
+    },
+    {
+      "bangla": "মাংস",
+      "japanese": "にく",
+      "romaji": "নিকু"
+    },
+    {
+      "bangla": "মাছ",
+      "japanese": "さかな",
+      "romaji": "সাকানা"
+    },
+    {
+      "bangla": "সবজি",
+      "japanese": "やさい",
+      "romaji": "ইয়াসাই"
+    },
+    {
+      "bangla": "ফল",
+      "japanese": "くだもの",
+      "romaji": "কুদামোনো"
+    },
+    {
+      "bangla": "পানি",
+      "japanese": "みず",
+      "romaji": "মিজু"
+    },
+    {
+      "bangla": "চা (সবুজ চা)",
+      "japanese": "おちゃ",
+      "romaji": "ওচা"
+    },
+    {
+      "bangla": "লাল চা",
+      "japanese": "こうちゃ",
+      "romaji": "কৌচা"
+    },
+    {
+      "bangla": "দুধ",
+      "japanese": "ぎゅうにゅう",
+      "romaji": "গিউনিউ"
+    },
+    {
+      "bangla": "জুস",
+      "japanese": "ジュース",
+      "romaji": "জুসু"
+    },
+    {
+      "bangla": "বিয়ার",
+      "japanese": "ビール",
+      "romaji": "বিরু"
+    },
+    {
+      "bangla": "মদ",
+      "japanese": "おさけ",
+      "romaji": "ওসাকে"
+    },
+    {
+      "bangla": "সিগারেট",
+      "japanese": "たばこ",
+      "romaji": "তাবাকো"
+    },
+    {
+      "bangla": "চিঠি",
+      "japanese": "てがみ",
+      "romaji": "তেগামি"
+    },
+    {
+      "bangla": "রিপোর্ট",
+      "japanese": "レポート",
+      "romaji": "রেপোতো"
+    },
+    {
+      "bangla": "ছবি",
+      "japanese": "しゃしん",
+      "romaji": "শাশিন"
+    },
+    {
+      "bangla": "ভিডিও",
+      "japanese": "বিদেও"
+    },
+    {
+      "bangla": "দোকান",
+      "japanese": "みせ",
+      "romaji": "মিসে"
+    },
+    {
+      "bangla": "বাগান",
+      "japanese": "にわ",
+      "romaji": "নিওয়া"
+    },
+    {
+      "bangla": "বাড়ির কাজ",
+      "japanese": "しゅくだい",
+      "romaji": "শুকুদাই"
+    },
+    {
+      "bangla": "টেনিস",
+      "japanese": "テニス",
+      "romaji": "তেনিসু"
+    },
+    {
+      "bangla": "ফুটবল",
+      "japanese": "サッカー",
+      "romaji": "সাক্‌কা"
+    },
+    {
+      "bangla": "ফুল দেখা (চেরি ব্লসম দেখা)",
+      "japanese": "おはなみ",
+      "romaji": "ওহানামি"
+    },
+    {
+      "bangla": "কি",
+      "japanese": "なに",
+      "romaji": "নানি"
+    },
+    {
+      "bangla": "একসাথে",
+      "japanese": "いっしょに",
+      "romaji": "ইশ্‌শোনি"
+    },
+    {
+      "bangla": "একটু",
+      "japanese": "ちょっと",
+      "romaji": "চোত্‌তো"
+    },
+    {
+      "bangla": "সবসময়",
+      "japanese": "いつも",
+      "romaji": "ইৎসুমো"
+    },
+    {
+      "bangla": "মাঝে মাঝে",
+      "japanese": "ときどき",
+      "romaji": "তোকিদোকি"
+    },
+    {
+      "bangla": "তারপর",
+      "japanese": "それから",
+      "romaji": "সোরেকোরা"
+    },
+    {
+      "bangla": "হ্যাঁ",
+      "japanese": "ええ",
+      "romaji": "এএ"
+    },
+    {
+      "bangla": "ভালো হয়েছে / ভালো লাগছে",
+      "japanese": "いいですね",
+      "romaji": "ইই দেস নে"
+    },
+    {
+      "bangla": "বুঝেছি",
+      "japanese": "わかりました",
+      "romaji": "ওয়াকারিমাশ্‌তা"
+    },
+    {
+      "bangla": "এটা কি?",
+      "japanese": "なんですか",
+      "romaji": "নান দেস কা"
+    },
+    {
+      "bangla": "আচ্ছা, আবার দেখা হবে",
+      "japanese": "じゃ、また",
+      "romaji": "জা, মাতা"
+    },
+    {
+      "bangla": "মেক্সিকো",
+      "japanese": "メキシコ",
+      "romaji": "মেকিশিকো"
+    }
+  ],
+  "lesson7": [
+    null,
+    {
+      "bangla": "কাটা",
+      "japanese": "きります",
+      "romaji": "কিরিমাস"
+    },
+    {
+      "bangla": "পাঠানো",
+      "japanese": "おくります",
+      "romaji": "ওকুরিমাস"
+    },
+    {
+      "bangla": "দেওয়া",
+      "japanese": "あげます",
+      "romaji": "আগেমাস"
+    },
+    {
+      "bangla": "পাওয়া",
+      "japanese": "もらいます",
+      "romaji": "মোরাইমাস"
+    },
+    {
+      "bangla": "ধার দেওয়া",
+      "japanese": "かします",
+      "romaji": "কাশিমাস"
+    },
+    {
+      "bangla": "ধার নেওয়া",
+      "japanese": "かります",
+      "romaji": "কারিমাস"
+    },
+    {
+      "bangla": "শেখানো",
+      "japanese": "おしえます",
+      "romaji": "অশিয়েমাস"
+    },
+    {
+      "bangla": "শেখা",
+      "japanese": "ならいます",
+      "romaji": "নারাইমাস"
+    },
+    {
+      "bangla": "ফোন করা",
+      "japanese": "かけます（でんわ）",
+      "romaji": "কাকেমাস (দেঁওয়া)"
+    },
+    {
+      "bangla": "হাত",
+      "japanese": "て",
+      "romaji": "তে"
+    },
+    {
+      "bangla": "চপস্টিক",
+      "japanese": "はし",
+      "romaji": "হাশি"
+    },
+    {
+      "bangla": "চামচ",
+      "japanese": "スプーン",
+      "romaji": "সুপুন"
+    },
+    {
+      "bangla": "ছুরি",
+      "japanese": "ナイフ",
+      "romaji": "নাইফু"
+    },
+    {
+      "bangla": "কাঁটা চামচ",
+      "japanese": "フォーク",
+      "romaji": "ফোকু"
+    },
+    {
+      "bangla": "কাঁচি",
+      "japanese": "はさみ",
+      "romaji": "হাসামি"
+    },
+    {
+      "bangla": "কম্পিউটার",
+      "japanese": "パソコン",
+      "romaji": "পাসোকোন"
+    },
+    {
+      "bangla": "মোবাইল ফোন",
+      "japanese": "ケータイ",
+      "romaji": "কেতাই"
+    },
+    {
+      "bangla": "ইমেইল",
+      "japanese": "メール",
+      "romaji": "মেরু"
+    },
+    {
+      "bangla": "নববর্ষের শুভেচ্ছা কার্ড",
+      "japanese": "ねんがじょう",
+      "romaji": "নেঙ্গাজৌ"
+    },
+    {
+      "bangla": "পাঞ্চ (ছিদ্র করার যন্ত্র)",
+      "japanese": "パンチ",
+      "romaji": "পান্চি"
+    },
+    {
+      "bangla": "স্ট্যাপলার",
+      "japanese": "ホッチキス",
+      "romaji": "হোচ্‌চিকিসু"
+    },
+    {
+      "bangla": "টেপ",
+      "japanese": "セロテープ",
+      "romaji": "সেরোতেপু"
+    },
+    {
+      "bangla": "রাবার",
+      "japanese": "けしゴム",
+      "romaji": "কেশিগোমু"
+    },
+    {
+      "bangla": "কাগজ",
+      "japanese": "かみ",
+      "romaji": "কামি"
+    },
+    {
+      "bangla": "ফুল",
+      "japanese": "はな",
+      "romaji": "হানা"
+    },
+    {
+      "bangla": "শার্ট",
+      "japanese": "シャツ",
+      "romaji": "শাৎসু"
+    },
+    {
+      "bangla": "উপহার",
+      "japanese": "プレゼント",
+      "romaji": "পুরেজেন্তো"
+    },
+    {
+      "bangla": "লাগেজ/বোঝা",
+      "japanese": "にもつ",
+      "romaji": "নিমুৎসু"
+    },
+    {
+      "bangla": "টাকা",
+      "japanese": "おかね",
+      "romaji": "ওকানে"
+    },
+    {
+      "bangla": "টিকিট",
+      "japanese": "きっぷ",
+      "romaji": "কিপ্‌পু"
+    },
+    {
+      "bangla": "বড়দিন",
+      "japanese": "クリスマス",
+      "romaji": "কুরিসুমাসু"
+    },
+    {
+      "bangla": "বাবা",
+      "japanese": "ちち",
+      "romaji": "চিচি"
+    },
+    {
+      "bangla": "মা",
+      "japanese": "はは",
+      "romaji": "হাহা"
+    },
+    {
+      "bangla": "বাবা (সম্মানসূচক)",
+      "japanese": "おとうさん",
+      "romaji": "ওতৌসান"
+    },
+    {
+      "bangla": "মা (সম্মানসূচক)",
+      "japanese": "おかあさん",
+      "romaji": "ওকাআসান"
+    },
+    {
+      "bangla": "ইতিমধ্যে",
+      "japanese": "もう",
+      "romaji": "মৌ"
+    },
+    {
+      "bangla": "এখনও না",
+      "japanese": "まだ",
+      "romaji": "মাদা"
+    },
+    {
+      "bangla": "এখন থেকে / শিগগিরই",
+      "japanese": "これから",
+      "romaji": "কোরেকারা"
+    },
+    {
+      "bangla": "স্বাগতম",
+      "japanese": "いらっしゃい",
+      "romaji": "ইরাশ্‌শাই"
+    },
+    {
+      "bangla": "ভেতরে আসুন",
+      "japanese": "どうぞ おあがりください",
+      "romaji": "দৌজৌ ওআগারি কুদাশাই"
+    },
+    {
+      "bangla": "মাফ করবেন / ভদ্রতা প্রকাশ",
+      "japanese": "しつれいします",
+      "romaji": "শিৎ সুরেয়িশিমাস"
+    },
+    {
+      "bangla": "আপনি কি নেবেন?",
+      "japanese": "〜はいかがですか",
+      "romaji": "~ ওয়া ইকাগা দেস কা"
+    },
+    {
+      "bangla": "খাওয়ার আগে বলা হয়",
+      "japanese": "いただきます",
+      "romaji": "ইতাদাকিমাস"
+    },
+    {
+      "bangla": "খাওয়ার পরে বলা হয়",
+      "japanese": "ごちそうさまでした",
+      "romaji": "গোচিসৌসামা দেশ্‌তা"
+    },
+    {
+      "bangla": "স্পেন",
+      "japanese": "スペイン",
+      "romaji": "সুপেইন"
+    }
+  ],
+  "lesson8": [
+    null,
+    {
+      "bangla": "হ্যান্ডসাম",
+      "japanese": "ハンサム",
+      "romaji": "হানসামু"
+    },
+    {
+      "bangla": "সুন্দর / পরিষ্কার",
+      "japanese": "きれい",
+      "romaji": "কিরেই"
+    },
+    {
+      "bangla": "শান্ত",
+      "japanese": "しずか",
+      "romaji": "শিজুকা"
+    },
+    {
+      "bangla": "প্রাণবন্ত / জমজমাট",
+      "japanese": "にぎやか",
+      "romaji": "নিগিয়াকা"
+    },
+    {
+      "bangla": "বিখ্যাত",
+      "japanese": "ゆうめい",
+      "romaji": "ইউমেই"
+    },
+    {
+      "bangla": "দয়ালু / সদয়",
+      "japanese": "しんせつ",
+      "romaji": "শিনসেৎসু"
+    },
+    {
+      "bangla": "সুস্থ / চাঙ্গা",
+      "japanese": "げんき",
+      "romaji": "গেনকি"
+    },
+    {
+      "bangla": "অবসর (ফ্রি টাইম)",
+      "japanese": "ひま",
+      "romaji": "হিমা"
+    },
+    {
+      "bangla": "সুবিধাজনক",
+      "japanese": "べんり",
+      "romaji": "বেনরি"
+    },
+    {
+      "bangla": "দারুণ / চমৎকার",
+      "japanese": "すてき",
+      "romaji": "সুতেকি"
+    },
+    {
+      "bangla": "বড়",
+      "japanese": "おおきい",
+      "romaji": "ওওকিই"
+    },
+    {
+      "bangla": "ছোট",
+      "japanese": "ちいさい",
+      "romaji": "চিইসাই"
+    },
+    {
+      "bangla": "নতুন",
+      "japanese": "あたらしい",
+      "romaji": "আতারাশিই"
+    },
+    {
+      "bangla": "পুরোনো",
+      "japanese": "ふるい",
+      "romaji": "ফুরুই"
+    },
+    {
+      "bangla": "ভালো",
+      "japanese": "いい（よい）",
+      "romaji": "ইই (ইয়োই)"
+    },
+    {
+      "bangla": "খারাপ",
+      "japanese": "わるい",
+      "romaji": "ওয়ারুই"
+    },
+    {
+      "bangla": "গরম",
+      "japanese": "あつい",
+      "romaji": "আৎসুই"
+    },
+    {
+      "bangla": "ঠান্ডা (আবহাওয়া)",
+      "japanese": "さむい",
+      "romaji": "সামুই"
+    },
+    {
+      "bangla": "ঠান্ডা (স্পর্শ)",
+      "japanese": "つめたい",
+      "romaji": "ৎসুমেতাই"
+    },
+    {
+      "bangla": "কঠিন",
+      "japanese": "むずかしい",
+      "romaji": "মুজুকাশিই"
+    },
+    {
+      "bangla": "সহজ / দয়ালু",
+      "japanese": "やさしい",
+      "romaji": "ইয়াসাশিই"
+    },
+    {
+      "bangla": "দামি / উঁচু",
+      "japanese": "たかい",
+      "romaji": "তাকাই"
+    },
+    {
+      "bangla": "সস্তা",
+      "japanese": "やすい",
+      "romaji": "ইয়াসুই"
+    },
+    {
+      "bangla": "নিচু",
+      "japanese": "ひくい",
+      "romaji": "হিকুই"
+    },
+    {
+      "bangla": "মজার",
+      "japanese": "おもしろい",
+      "romaji": "ওমোশিরোই"
+    },
+    {
+      "bangla": "সুস্বাদু",
+      "japanese": "おいしい",
+      "romaji": "ওইশিই"
+    },
+    {
+      "bangla": "ব্যস্ত",
+      "japanese": "いそがしい",
+      "romaji": "ইসোগাশিই"
+    },
+    {
+      "bangla": "আনন্দদায়ক",
+      "japanese": "たのしい",
+      "romaji": "তানোশিই"
+    },
+    {
+      "bangla": "সাদা",
+      "japanese": "しろい",
+      "romaji": "শিরোই"
+    },
+    {
+      "bangla": "কালো",
+      "japanese": "くろい",
+      "romaji": "কুরোই"
+    },
+    {
+      "bangla": "লাল",
+      "japanese": "あかい",
+      "romaji": "আকাই"
+    },
+    {
+      "bangla": "নীল",
+      "japanese": "あおい",
+      "romaji": "আওই"
+    },
+    {
+      "bangla": "চেরি ফুল",
+      "japanese": "さくら",
+      "romaji": "সাকুরা"
+    },
+    {
+      "bangla": "পাহাড়",
+      "japanese": "やま",
+      "romaji": "ইয়ামা"
+    },
+    {
+      "bangla": "শহর / নগর",
+      "japanese": "まち",
+      "romaji": "মাচি"
+    },
+    {
+      "bangla": "খাবার",
+      "japanese": "たべもの",
+      "romaji": "তাবেমোনো"
+    },
+    {
+      "bangla": "জায়গা",
+      "japanese": "ところ",
+      "romaji": "তোকোরো"
+    },
+    {
+      "bangla": "ডরমিটরি / হোস্টেল",
+      "japanese": "りょう",
+      "romaji": "রিয়ৌ"
+    },
+    {
+      "bangla": "রেস্টুরেন্ট",
+      "japanese": "レストラン",
+      "romaji": "রেসুতোরান"
+    },
+    {
+      "bangla": "জীবন",
+      "japanese": "せいかつ",
+      "romaji": "সেইকাৎসু"
+    },
+    {
+      "bangla": "কাজ / চাকরি",
+      "japanese": "おしごと",
+      "romaji": "ওশিগোতো"
+    },
+    {
+      "bangla": "কেমন / কীভাবে",
+      "japanese": "どう",
+      "romaji": "দৌ"
+    },
+    {
+      "bangla": "কেমন ধরনের",
+      "japanese": "どんな〜",
+      "romaji": "দোন্না"
+    },
+    {
+      "bangla": "খুব",
+      "japanese": "とても",
+      "romaji": "তোতেমো"
+    },
+    {
+      "bangla": "খুব বেশি না (নেগেটিভে)",
+      "japanese": "あまり",
+      "romaji": "আমারি"
+    },
+    {
+      "bangla": "এবং",
+      "japanese": "そして",
+      "romaji": "সোশিতে"
+    },
+    {
+      "bangla": "কিন্তু",
+      "japanese": "〜が",
+      "romaji": "~গা"
+    },
+    {
+      "bangla": "আপনি কেমন আছেন?",
+      "japanese": "おげんきですか",
+      "romaji": "ওগেনকি দেসু কা"
+    },
+    {
+      "bangla": "হুম, ঠিক আছে / তাই তো",
+      "japanese": "そうですね",
+      "romaji": "সৌ দেসু নে"
+    },
+    {
+      "bangla": "আরেক কাপ নেবেন?",
+      "japanese": "〜も もう いっぱい いかがですか",
+      "romaji": "~মো মৌ ইপ্পাই ইকাগা দেসু কা"
+    },
+    {
+      "bangla": "না, ধন্যবাদ",
+      "japanese": "いいえ、けっこうです",
+      "romaji": "ইইএ, কেক্কৌ দেসু"
+    },
+    {
+      "bangla": "ইতিমধ্যেই ~, তাই না?",
+      "japanese": "もう 〜ですね",
+      "romaji": "মৌ ~ দেসু নে"
+    },
+    {
+      "bangla": "এখন আমি উঠি / যাই",
+      "japanese": "そろそろ しつれいします",
+      "romaji": "সোরোসোরো শিৎসুরেই শিমাসু"
+    },
+    {
+      "bangla": "না / সমস্যা নেই",
+      "japanese": "いいえ",
+      "romaji": "ইইএ"
+    },
+    {
+      "bangla": "আবার আসবেন",
+      "japanese": "また いらっしゃって ください",
+      "romaji": "মাতা ইরাশ্‌শাত্তে কুদাসাই"
+    }
+  ],
+  "lesson9": [
+    null,
+    {
+      "bangla": "বুঝি / বুঝতে পারি",
+      "japanese": "わかります",
+      "romaji": "ওয়াকারিমাস"
+    },
+    {
+      "bangla": "আছে / রয়েছে",
+      "japanese": "あります",
+      "romaji": "আরিমাস"
+    },
+    {
+      "bangla": "পছন্দ",
+      "japanese": "すき",
+      "romaji": "সুকি"
+    },
+    {
+      "bangla": "অপছন্দ",
+      "japanese": "きらい",
+      "romaji": "কিরাই"
+    },
+    {
+      "bangla": "ভালো (কোনো কাজে দক্ষ)",
+      "japanese": "じょうず",
+      "romaji": "জৌজূ"
+    },
+    {
+      "bangla": "খারাপ / অদক্ষ",
+      "japanese": "へた",
+      "romaji": "হেতা"
+    },
+    {
+      "bangla": "পানীয়",
+      "japanese": "のみもの",
+      "romaji": "নমিমোনো"
+    },
+    {
+      "bangla": "রান্না / খাবার",
+      "japanese": "りょうり",
+      "romaji": "রিওউরি"
+    },
+    {
+      "bangla": "খেলাধুলা",
+      "japanese": "スポーツ",
+      "romaji": "সুপোৎসু"
+    },
+    {
+      "bangla": "বেসবল",
+      "japanese": "やきゅう",
+      "romaji": "ইয়াকিউ"
+    },
+    {
+      "bangla": "নাচ",
+      "japanese": "ダンス",
+      "romaji": "দানসু"
+    },
+    {
+      "bangla": "ভ্রমণ",
+      "japanese": "りょこう",
+      "romaji": "রিওকৌ"
+    },
+    {
+      "bangla": "সঙ্গীত",
+      "japanese": "おんがく",
+      "romaji": "ওঙ্গাকু"
+    },
+    {
+      "bangla": "গান",
+      "japanese": "うた",
+      "romaji": "উতা"
+    },
+    {
+      "bangla": "शास्त्रীয় সঙ্গীত",
+      "japanese": "クラシック",
+      "romaji": "কুরাশিক্‌কু"
+    },
+    {
+      "bangla": "জ্যাজ",
+      "japanese": "ジャズ",
+      "romaji": "জাজু"
+    },
+    {
+      "bangla": "কনসার্ট",
+      "japanese": "コンサート",
+      "romaji": "কোনসাতো"
+    },
+    {
+      "bangla": "কারাওকে",
+      "japanese": "カラオケ",
+      "romaji": "কারাओके"
+    },
+    {
+      "bangla": "কাবুকি নাটক",
+      "japanese": "かぶき",
+      "romaji": "কাবুকি"
+    },
+    {
+      "bangla": "ছবি / আঁকা",
+      "japanese": "え",
+      "romaji": "এ"
+    },
+    {
+      "bangla": "অক্ষর",
+      "japanese": "じ",
+      "romaji": "জি"
+    },
+    {
+      "bangla": "চীনা অক্ষর",
+      "japanese": "かんじ",
+      "romaji": "কানজি"
+    },
+    {
+      "bangla": "হিরাগানা",
+      "japanese": "ひらがな",
+      "romaji": "হিরাগানা"
+    },
+    {
+      "bangla": "কাতাকানা",
+      "japanese": "カタカナ",
+      "romaji": "কাতাকানা"
+    },
+    {
+      "bangla": "রোমান অক্ষর",
+      "japanese": "ローマじ",
+      "romaji": "রোমাজি"
+    },
+    {
+      "bangla": "খুচরা টাকা",
+      "japanese": "こまかい おかね",
+      "romaji": "কোমাকাই ওকানে"
+    },
+    {
+      "bangla": "টিকিট",
+      "japanese": "チケット",
+      "romaji": "চিকেত্‌তো"
+    },
+    {
+      "bangla": "সময়",
+      "japanese": "じかん",
+      "romaji": "জিকান"
+    },
+    {
+      "bangla": "কাজ / দরকারি কাজ",
+      "japanese": "ようじ",
+      "romaji": "ইওউজি"
+    },
+    {
+      "bangla": "প্রতিশ্রুতি / অ্যাপয়েন্টমেন্ট",
+      "japanese": "やくそく",
+      "romaji": "ইয়াকুসোকু"
+    },
+    {
+      "bangla": "পার্ট-টাইম কাজ",
+      "japanese": "アルバイト",
+      "romaji": "আরুবাইতো"
+    },
+    {
+      "bangla": "(অন্যের) স্বামী",
+      "japanese": "ごしゅじん",
+      "romaji": "গোশুিজিন"
+    },
+    {
+      "bangla": "(নিজের) স্বামী",
+      "japanese": "おっと",
+      "romaji": "ওত্‌তো"
+    },
+    {
+      "bangla": "(অন্যের) স্ত্রী",
+      "japanese": "おくさん",
+      "romaji": "ওকুসান"
+    },
+    {
+      "bangla": "(নিজের) স্ত্রী",
+      "japanese": "つま",
+      "romaji": "ৎসুমা"
+    },
+    {
+      "bangla": "নম্বের শিশু / সন্তান",
+      "japanese": "こども",
+      "romaji": "কোদোমো"
+    },
+    {
+      "bangla": "ভালোভাবে / প্রায়ই",
+      "japanese": "よく",
+      "romaji": "ইওকু"
+    },
+    {
+      "bangla": "মোটামুটি / প্রায়",
+      "japanese": "だいたい",
+      "romaji": "দাইতাই"
+    },
+    {
+      "bangla": "অনেক",
+      "japanese": "たくさん",
+      "romaji": "তাকুসান"
+    },
+    {
+      "bangla": "অল্প",
+      "japanese": "すこし",
+      "romaji": "সুকোশি"
+    },
+    {
+      "bangla": "একদম না",
+      "japanese": "ぜんぜん",
+      "romaji": "জেনজেন"
+    },
+    {
+      "bangla": "তাড়াতাড়ি",
+      "japanese": "はやく",
+      "romaji": "হায়াকু"
+    },
+    {
+      "bangla": "কারণ / থেকে",
+      "japanese": "～から",
+      "romaji": "~ কারা"
+    },
+    {
+      "bangla": "কেন",
+      "japanese": "どうして",
+      "romaji": "দৌশিতে"
+    },
+    {
+      "bangla": "দয়া করে ধার দিন",
+      "japanese": "かして ください",
+      "romaji": "কাশিতে কুদাশাই"
+    },
+    {
+      "bangla": "ঠিক আছে / নিশ্চয়ই",
+      "japanese": "いいですよ",
+      "romaji": "ইই দেস ইয়ো"
+    },
+    {
+      "bangla": "দুঃখজনক",
+      "japanese": "ざんねんです",
+      "romaji": "জাননেন দেস"
+    },
+    {
+      "bangla": "আহা / ওহ",
+      "japanese": "ああ",
+      "romaji": "আআ"
+    },
+    {
+      "bangla": "একসাথে যাবেন?",
+      "japanese": "いっしょに いかがですか",
+      "romaji": "ইশ্‌শোনি ইকাগা দেস কা"
+    },
+    {
+      "bangla": "একটু… (না বলার ভদ্র উপায়)",
+      "japanese": "ちょっと…",
+      "romaji": "চোত্‌তো..."
+    },
+    {
+      "bangla": "হবে না?",
+      "japanese": "だめですか",
+      "romaji": "দামে দেস কা"
+    },
+    {
+      "bangla": "পরে আবার বলবেন",
+      "japanese": "また こんど おねがいします",
+      "romaji": "মাতা কোনদো ওনেগাইশিমাস"
+    }
+  ]
+}
