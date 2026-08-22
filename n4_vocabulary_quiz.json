@@ -1,0 +1,48 @@
+{
+  "lesson1": [
+    null,
+    {
+      "correct_answer": "B",
+      "options": {
+        "A": "তুমি",
+        "B": "আমি",
+        "C": "সে",
+        "D": "তারা"
+      },
+      "question": "わたし (watashi) এর বাংলা অর্থ কী?"
+    },
+    {
+      "correct_answer": "C",
+      "options": {
+        "A": "আসুন",
+        "B": "খাবো",
+        "C": "যাই/যাবো",
+        "D": "বসো"
+      },
+      "question": "いきます (ikimasu) এর বাংলা অর্থ কী?"
+    }
+  ],
+  "lesson2": [
+    null,
+    {
+      "correct_answer": "B",
+      "options": {
+        "A": "তুমি",
+        "B": "আমি",
+        "C": "সে",
+        "D": "তারা"
+      },
+      "question": "わたし (watashi) এর বাংলা অর্থ কী?"
+    },
+    {
+      "correct_answer": "C",
+      "options": {
+        "A": "আসুন",
+        "B": "খাবো",
+        "C": "যাই/যাবো",
+        "D": "বসো"
+      },
+      "question": "いきます (ikimasu) এর বাংলা অর্থ কী?"
+    }
+  ]
+}
