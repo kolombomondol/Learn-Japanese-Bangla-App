@@ -9,7 +9,7 @@
         "C": "সে",
         "D": "তারা"
       },
-      "question": "わたし (watashi) এর বাংলা অর্থ কী?"
+      "question": "わたし "
     },
     {
       "correct_answer": "C",
@@ -19,7 +19,7 @@
         "C": "যাই/যাবো",
         "D": "বসো"
       },
-      "question": "いきます (ikimasu) এর বাংলা অর্থ কী?"
+      "question": "いきます"
     }
   ],
   "lesson2": [
@@ -32,7 +32,7 @@
         "C": "সে",
         "D": "তারা"
       },
-      "question": "わたし (watashi) এর বাংলা অর্থ কী?"
+      "question": "わたし "
     },
     {
       "correct_answer": "C",
@@ -42,7 +42,7 @@
         "C": "যাই/যাবো",
         "D": "বসো"
       },
-      "question": "いきます (ikimasu) এর বাংলা অর্থ কী?"
+      "question": "いきます "
     }
   ]
 }
